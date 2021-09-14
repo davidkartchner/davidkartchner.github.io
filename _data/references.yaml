@@ -1,0 +1,44 @@
+- name: Cassie Mitchell
+  position: Assistant Professor
+  group: School of Biomedical Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell"
+  url: "https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell"
+
+- name: Jeff Humpherys
+  position: Professor
+  group: School of Medicine
+  institution: University of Utah
+  location: Salt Lake City, UT, USA
+  phd: true
+  website: "linkedin.com/in/jhumpherys/"
+  url: "https://www.linkedin.com/in/jhumpherys/"
+
+- name: Tyler Jarvis
+  position: Director and Cofounder
+  group: Applied and Computational Mathematics Program
+  institution: Brigham Young University
+  location: Provo, UT, USA
+  phd: true
+  website: "math.byu.edu/~jarvis/"
+  url: "http://www.math.byu.edu/~jarvis/"
+
+- name: Anne Cocos
+  position: Director of Data Science
+  # group: Visualization and Interactive Data Analysis Group
+  institution: Ask Iggy
+  location: Philadelphia, PA, USA
+  phd: true
+  website: "acocos.github.io/"
+  url: "https://acocos.github.io/"
+
+- name: David Healey
+  position: Vice President of Data Science
+  # group: Data Sciences and Analytics Group
+  institution: Enveda Biosciences
+  location: Salt Lake City, UT, USA
+  phd: true
+  website: "linkedin.com/in/david-healey-a0a8143/"
+  url: "https://www.linkedin.com/in/david-healey-a0a8143/"

@@ -1,0 +1,26 @@
+- name: "National Science Foundation GRFP Honorable Mention"
+  description: "Learning to Prescribe Optimal Disease Treatment via Machine Learning"
+  year: 2018
+
+- name: Dean and Helen Robinson Scholarship
+  description: Scholarship given to outstanding undergraduates in mathematics for Putnam Mathematics competition
+  year: 2015
+
+- name: BYU University Honors
+  description: Awarded to undergraduates who write a thesis complete requirements in leadership cross-disciplinary scholarship. 
+  year: 2016
+
+- name: BYU Heritage Scholarship
+  description: Full-tuition merit based scholarship for incoming students
+  year: "2010-2016"
+
+- name: Amberly Rupp "Circle of Honor" Essay Contest Award
+  description: 1st-place in university-wide essay contest 
+
+- name: National Merit Scholarship
+  description: Merit-based scholarship awarded top <1% of incoming university students
+  year: 2010
+
+# - name: Eagle Scout Award
+#   description: "Highest achievement attainable in the Boy Scouts of America, only 4% of scouts granted this rank"
+#   year: 2010

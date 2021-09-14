@@ -1,0 +1,38 @@
+---
+layout: paper
+categories: papers
+permalink: papers/diagnosis-clustering
+id: code2vec
+title: "Code2vec: Embedding and Clustering Medical Diagnosis Data"
+authors:
+    - David Kartchner
+    - Tanner Christensen
+    - Jeff Humpherys
+    - Sean Wade
+venue: "IEEE International Conference on Healthcare Informatics"
+venue-shorthand: ICHI
+location: Park City, UT, USA
+year: 2017
+icon: 17-code2vec.png
+tagline: Meaningful Embeddings of Medical Data
+pdf: "https://ieeexplore.ieee.org/document/8031179"
+url: "https://davidkartchner.com/papers/code2vec"
+poster: "https://davidkartchner.com/papers/17-code2vec-poster.pdf"
+collaboration: Intermountain Healthcare
+type: conference
+figure: /images/papers/17-code2vec.png
+doi: "10.1109/ICHI.2017.94"
+bibtex: |-
+
+    @inproceedings{kartchner2017code2vec,
+  title={Code2vec: Embedding and clustering medical diagnosis data},
+  author={Kartchner, David and Christensen, Tanner and Humpherys, Jeffrey and Wade, Sean},
+  booktitle={2017 IEEE International Conference on Healthcare Informatics (ICHI)},
+  pages={386--390},
+  year={2017},
+  organization={IEEE}
+}
+---
+
+Identifying disease comorbidities and grouping medical diagnoses into disease incidents are two important problems in health care delivery and assessment. 
+Using vector space embeddings produced using the Global Vectors (GloVe) algorithm, we are able to find useful vector representations of diagnosis codes that can identify related diagnoses and thus improve identification of related disease incidents.

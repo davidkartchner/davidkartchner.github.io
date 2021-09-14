@@ -1,0 +1,125 @@
+- institution: Facebook
+  location: Menlo Park, CA
+  position: Applied Research Science Intern
+  group: "Enterprise Product Applied Research"
+  year: Summer 2021
+  mentors:
+    - Minhazul Islam Sk
+  description: "Built internal semantic search engine for customer support agents"
+  institution-url: https://fb.com
+  group-url: https://fb.com/
+  type: industry
+
+- institution: GlaxoSmithKline
+  location: Philadelphia, PA
+  position: Research Intern
+  group: AI/ML Engineering
+  year: Summer 2020
+  mentors:
+    - Anne Cocos
+  description: 
+    Built model jointly embed free-text entity mentions with structured entity knowledge graph for 30M research articles/abstracts and KG with 5M edges. Developed end-to-end pipeline to download, preprocess, and identify high-quality entity links for biomedical entities in 30M research articles.  
+  institution-url: https://gsk.com
+  group-url: https://gsk.com
+  type: industry
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: Laboratory for Pathology Dynamics
+  year: "Aug 2019 - Present"
+  year-extra: "Aug. 2016"
+  mentors: 
+    - Cassie Mitchell
+  advisor: true
+  description: "Member of the Laboratory of Pathology Dynamics where we use machine learning to build tools that identify and prioritize cures and optimize care for neurodegenerative diseases."
+  institution-url: http://gatech.edu
+  group-url: https://sites.gatech.edu/cassie-mitchell-lab/
+  type: academic
+
+- institution: Padsplit
+  location: "Atlanta, GA"
+  position: Data Science Consultant
+  year: Nov 2018 - Aug 2019
+  description: "Created credit scoring model and interactive job density visualizations to move into new domestic markets."
+  institution-url: https://www.padsplit.com/
+  group-url: https://www.padsplit.com/
+  type: industry
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: School of Computational Science and Engineering
+  year: "Aug 2018 - May 2019"
+  # year-extra: "Aug. 2015"
+  mentors:
+    - Jimeng Sun
+  description: "Conducted research in predicting chronic disease outcomes from electronic health records (EHR) and free-text clinical notes."
+  institution-url: https://gatech.edu
+  group-url: https://cse.gatech.edu
+  type: academic
+
+- institution: Recursion Pharmaceuticals
+  location: "Salt Lake City, UT"
+  position: Data Science Intern
+  group: Machine Learning 
+  year: Summer 2018
+  mentors:
+    - Andrew Blevins
+  description: "Developed and deployed recommender system to infer biological mechanism of action and repurposing potential of 1M+ compounds"
+  institution-url: https://recursionphrama.com
+  group-url: https://recursionphrama.com
+  type: industry
+
+- institution: Intermountain Healthcare
+  location: "Salt Lake City, UT"
+  position: Data Science Intern
+  group: Population Health Analytics
+  year: May 2016 - May 2018
+  mentors:
+    - Andy Merrill
+  description: "Built and deployed models to forecast individual patient risk of chronic disease onset and long-term complex care from EHR and environmental data.  Published in IEEE ICHI (2017) and AJRCCM (2018)."
+  institution-url: https://intermountainhealthcare.org
+  group-url: https://intermountainhealthcare.org
+  type: industry
+
+
+- institution: Brigham Young University
+  location: "Provo, UT"
+  position: Graduate Research Assistant
+  group: Department of Mathematics
+  year: "Jan 2017 - Aug 2018"
+  year-extra: "Jan. 2013"
+  mentors:
+    - Jeffrey Humpherys
+  advisor: true
+  description: "Developed models to predict individual onset of chronic conditions from patient electronic health records (EHR).  Published in IEEE ICHI (2017, 2018)."
+  institution-url: https://www.byu.edu
+  group-url: https://math.byu.edu
+  type: academic
+
+- institution: Brigham Young University
+  location: "Provo, UT"
+  position: Teaching Assistant & Lab Instructor
+  group: Department of Mathematics
+  year: Jun 2014 - Apr 2018
+  mentors:
+    - Tyler Jarvis (primary)
+    - Brigham Frandsen
+    - David Sims
+    - Joseph Price
+    - Stephen Humpheries
+  description: "Taught year-long, weekly programming lab on data analysis and intensive summer bootcamp on Markov Chain Monte Carlo (MCMC).  Developed machine learning curriculum and automated grading software.  Additionally taught recitations for abstrat algebra, econometrics, statistics, and microeconomics."
+  institution-url: https://www.byu.edu
+  group-url: https://foundations-of-applied-mathematics.github.io/
+  type: academic
+
+- institution: Capital One
+  location: "McLean, VA"
+  position: Business Analyst Intern
+  # group: Department of Mathematics
+  year: Summer 2015
+  description: "Analyzed public loan data to predict consumer default on personal loans."
+  institution-url: https://capitalone.com
+  group-url: https://capitalone.com
+  type: industry

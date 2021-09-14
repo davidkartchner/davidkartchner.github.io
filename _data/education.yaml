@@ -1,0 +1,46 @@
+- degree: "Ph.D. in Computational Science & Engineering"
+  institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  advisor: Cassie Mitchell
+  # co-advisor: Alex Endert
+  years: "2018 - Present"
+  # years-extra: "Present"
+  # thesis: "Interactive Scalable Interfaces for Machine Learning Interpretability"
+  # thesis-video: https://youtu.be/TNH8RqyNfmo
+  # thesis-link: ../defense/
+  # thesis-pdf: ../papers/fred-hohman-thesis.pdf
+  # committee:
+  #   - Duen Horng (Polo) Chau
+  #   - Alex Endert
+  #   - Chao Zhang
+  #   - Nathan Hodas
+  #   - Scott Davidoff
+  #   - Steven Drucker
+  institution-url: https://www.gatech.edu/
+
+- degree: "M.S. in Mathematics"
+  institution: Brigham Young University
+  location: "Provo, UT"
+  years: "2017 - 2018"
+  # years-extra: "Dec 2018"
+  institution-url: https://www.byu.edu/
+  thesis: "ActuarAI: Machine Learning Models for Patient Disease Forecasting and Representation"
+  thesis-pdf: ../papers/david-kartchner-masters-thesis.pdf
+  committee:
+    - Jeffrey Humpherys
+    - Tyler Jarvis
+    - David Wingate
+  description:
+    - "GPA: 4.00/4.00"
+
+- degree: "B.S. in Mathematics, Minor in Economics"
+  years: "2010 - 2016"
+  # years-extra: "Dec 2016"
+  institution: Brigham Young University
+  location: "Provo, UT"
+  thesis: "Walking the Walk: An Exploratory Analysis in Biometric Gait Recognition"
+  # thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
+  thesis-pdf: ../papers/david-kartchner-undergrad-thesis.pdf
+  description: 
+    - "Overall GPA: 3.96/4.00, Magna Cum Laude, University Honors.  Applied and Computational Mathematics Emphasis (ACME)."
+  institution-url: https://www.byu.edu/

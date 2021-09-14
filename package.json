@@ -1,0 +1,19 @@
+{
+  "name": "davidkartchner.github.io",
+  "version": "1.0.0",
+  "description": "David Kartchner's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkartchner/davidkartchner.github.io.git"
+  },
+  "author": "David Kartchner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidkartchner/davidkartchner.github.io/issues"
+  },
+  "homepage": "https://github.com/davidkartchner/davidkartchner.github.io#readme"
+}

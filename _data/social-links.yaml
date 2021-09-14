@@ -1,0 +1,62 @@
+- id: home
+  description: "davidkartchner.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://davidkartchner.com"
+  on-homepage: false
+  cv-group: 1
+
+- id: email
+  description: "david.kartchner@gatech.edu"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:davidkartchner@gatech.edu"
+  on-homepage: true
+  cv-group: 1
+
+# - id: twitter
+#   description: "@fredhohman"
+#   color: "#1da1f2"
+#   class: "fab fa-twitter icon"
+#   url: https://twitter.com/fredhohman
+#   on-homepage: true
+#   cv-group: 2
+
+- id: linkedin
+  description: David-S-Kartchner
+  color: "#2867B2"
+  class: "fa fa-linkedin-square"
+  url: "https://linkedin.com/in/david-s-kartchner"
+  on-homepage: true
+  cv-group: 2
+
+- id: github
+  description: "@davidkartchner"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/davidkartchner"
+  on-homepage: true
+  cv-group: 2
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=di5ncfUAAAAJ&hl=en"
+  on-homepage: true
+  cv-group: 2
+
+- id: cv
+  description: CV PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "https://davidkartchner.com/cv.pdf"
+  on-homepage: false
+  cv-group: 1
+
+- id: cv-web
+  description: Here's my CV
+  color: "#515151"
+  class: "fa fa-address-card icon"
+  url: "https://davidkartchner.com/cv/"
+  on-homepage: false

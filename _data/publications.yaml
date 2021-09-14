@@ -1,0 +1,239 @@
+# - id: code2vec
+#   title: "Code2vec: Embedding and Clustering Medical Diagnosis Data"
+#   authors:
+#     - David Kartchner
+#     - Tanner Christensen
+#     - Jeff Humpherys
+#     - Sean Wade
+#   venue: "IEEE International Conference on Healthcare Informatics"
+#   venue-shorthand: ICHI
+#   location: Park City, UT, USA
+#   year: 2017
+#   icon: 17-code2vec.png
+#   tagline: Meaningful Embeddings of Medical Data
+#   pdf: "https://ieeexplore.ieee.org/document/8031179"
+#   url: "https://davidkartchner.com/papers/code2vec"
+#   poster: "https://davidkartchner.com/papers/17-code2vec-poster.pdf"
+#   collaboration: Intermountain Healthcare
+#   type: conference
+#   figure: /images/papers/17-code2vec.png
+#   doi: "10.1109/ICHI.2017.94"
+#   bibtex: |-
+
+#       @inproceedings{kartchner2017code2vec,
+#     title={Code2vec: Embedding and clustering medical diagnosis data},
+#     author={Kartchner, David and Christensen, Tanner and Humpherys, Jeffrey and Wade, Sean},
+#     booktitle={2017 IEEE International Conference on Healthcare Informatics (ICHI)},
+#     pages={386--390},
+#     year={2017},
+#     organization={IEEE}
+#   }
+
+# - id: ccm
+#   title: "Cost Reduction via Patient Targeting and Outreach: A Statistical Approach"
+#   authors:
+#     - David Kartchner
+#     - Andrew Merrill
+#     - Jonathan Wrathall
+#   venue: "IEEE International Conference on Healthcare Informatics"
+#   venue-shorthand: ICHI
+#   location: Park City, UT, USA
+#   year: 2017
+#   tagline: Targeting Patients for Care Management
+#   pdf: "https://ieeexplore.ieee.org/abstract/document/8031203"
+#   url: "https://davidkartchner.com/papers/care-management"
+#   poster: "https://davidkartchner.com/papers/17-care-management-poster.pdf"
+#   collaboration: Intermountain Healthcare
+#   type: conference
+#   doi: "10.1109/ICHI.2017.86"
+#   bibtex: |-
+
+#     @inproceedings{kartchner2017cost,
+#     title={Cost reduction via patient targeting and outreach: a statistical approach},
+#     author={Kartchner, David and Merrill, Andy and Wrathall, Jonathan},
+#     booktitle={2017 IEEE International Conference on Healthcare Informatics (ICHI)},
+#     pages={513--517},
+#     year={2017},
+#     organization={IEEE}
+# }
+
+
+# - id: alri
+#   categories: papers
+#   permalink: papers/alri
+#   title: "Short-Term Elevation of Fine Particulate Matter Air Pollution and Acute Lower Respiratory Infection"
+#   authors:
+#     - Benjamin D. Horne
+#     - Elizabeth A. Joy
+#     - Michelle G. Hofmann
+#     - Per H. Gesteland
+#     - John B. Cannon
+#     - Jacob S. Lefler
+#     - Denitza P. Blagev
+#     - E. Kent Korgenski
+#     - Natalie Torosyan
+#     - Grant I. Hansen
+#     - David Kartchner
+#     - C. Arden Pope III
+#   venue: American Journal of Respiratory and Critical Care Medicine
+#   venue-shorthand: AJRCCM
+#   location: New York, NY, USA
+#   year: 2018
+#   url: papers/alri
+#   pdf: https://www.atsjournals.org/doi/pdf/10.1164/rccm.201709-1883OC
+#   type: journal
+#   figure: /images/papers/18-alri.png
+#   doi: "10.1164/rccm.201709-1883OC"
+#   bibtex: |-
+
+#     @article{horne2018short,
+#     title={Short-term elevation of fine particulate matter air pollution and acute lower respiratory infection},
+#     author={Horne, Benjamin D and Joy, Elizabeth A and Hofmann, Michelle G and Gesteland, Per H and Cannon, John B and Lefler, Jacob S and Blagev, Denitza P and Korgenski, E Kent and Torosyan, Natalie and Hansen, Grant I and others},
+#     journal={American journal of respiratory and critical care medicine},
+#     volume={198},
+#     number={6},
+#     pages={759--766},
+#     year={2018},
+#     publisher={American Thoracic Society}
+
+# - id: disease-prediction
+#   title: "Machine Learning Methods for Diease Prediction with Claims Data"
+#   authors:
+#     - Tanner Christensen
+#     - Abraham Frandsen
+#     - Seth Glazier
+#     - Jeff Humpherys
+#     - David Kartchner
+#   venue: "IEEE International Conference on Healthcare Informatics"
+#   venue-shorthand: ICHI
+#   location: New York City, NY, USA
+#   year: 2018
+#   icon: 18-disease-prediction.png
+#   tagline: Predicting chronic disease onset with insurance claims
+#   pdf: "https://ieeexplore.ieee.org/abstract/document/8419439"
+#   url: "https://davidkartchner.com/papers/disease-prediction"
+#   collaboration: Intermountain Healthcare
+#   type: conference
+#   doi: "10.1109/ICHI.2018.00108"
+#   bibtex: |-
+
+#     @inproceedings{christensen2018machine,
+#     title={Machine learning methods for disease prediction with claims data},
+#     author={Christensen, Tanner and Frandsen, Abraham and Glazier, Seth and Humpherys, Jeffrey and Kartchner, David},
+#     booktitle={2018 IEEE International Conference on Healthcare Informatics (ICHI)},
+#     pages={467--4674},
+#     year={2018},
+#     organization={IEEE}
+#   }
+
+
+# - id: regal-workshop
+#   title: "ReGAL: Rule-Generative Active Learning for Model-in-the-Loop Weak Supervision"
+#   authors:
+#     - David Kartchner
+#     - Wendi Ren
+#     - Davi Nakajima An
+#     - Chao Zhang
+#     - Cassie Mitchell
+#   venue: "Human and Model-in-the-Loop Evaluation and Training Stragegies Workshop, NeurIPS"
+#   venue-shorthand: HAMLETS
+#   location: Online
+#   year: 2020
+#   icon: 20-regal.png
+#   tagline: Rule-generative active learning
+#   pdf: "https://openreview.net/pdf?id=FZDPu3JLEPg"
+#   url: "https://davidkartchner.com/papers/regal"
+#   poster: "https://davidkartchner.com/papers/20-regal-poster.pdf"
+#   type: workshop
+#   figure: /images/papers/20-regal.png
+#   bibtex: |-
+
+#     @inproceedings{kartchner2020regal,
+#     author    = {Kartchner, David and Ren, Wendi and Nakajima An, Davi and Zhang, Chao and Mitchell, Cassie},
+#     title     = {ReGAL: Rule-Generative Active Learning for Model-in-the-Loop Weak Supervision},
+#     year      = {2020},
+#     maintitle = {Neural Information Processing Systems},
+#     booktitle = {Human and Model-in-the-Loop Evaluation and Training Stragegies Workshop},
+#   }
+
+
+# - id: covid19
+#   title: "Biomedical Text Link Prediction for Drug Discovery: A Case Study with COVID-19"
+#   authors:
+#     - Kevin McCoy
+#     - Sateesh Gudapati
+#     - Lawrence He
+#     - Elaina Horlander
+#     - David Kartchner
+#     - Soham Kulkarni
+#     - Nidhi Mehra
+#     - Jayant Prakash
+#     - Helena Thenot
+#     - Sri Vivek Vanga
+#     - Abigail Wagner
+#     - Brandon White
+#     - Cassie Mitchell
+#   venue: "Pharnaceutics"
+#   venue-shorthand: Pharm
+#   location: Online
+#   year: 2021
+#   icon: 21-covid.png
+#   tagline: COVID-19 Drug Discovery 
+#   pdf: "https://www.mdpi.com/1999-4923/13/6/794/pdf"
+#   url: "https://www.mdpi.com/1999-4923/13/6/794"
+#   figure: /images/papers/21-covid.png
+#   doi: "10.3390/pharmaceutics13060794"
+#   type: journal
+#   bibtex: |-
+
+#     @article{mccoy2021biomedical,
+#     title={Biomedical Text Link Prediction for Drug Discovery: A Case Study with COVID-19},
+#     author={McCoy, Kevin and Gudapati, Sateesh and He, Lawrence and Horlander, Elaina and Kartchner, David and Kulkarni, Soham and Mehra, Nidhi and Prakash, Jayant and Thenot, Helena and Vanga, Sri Vivek and others},
+#     journal={Pharmaceutics},
+#     volume={13},
+#     number={6},
+#     pages={794},
+#     year={2021},
+#     publisher={Multidisciplinary Digital Publishing Institute}
+#   }
+
+# - id: multi-source-weak-supervision
+#   title: "Denoising Multi-Source Weak Supervision for Neural Text Classification"
+#   authors:
+#     - David Kartchner
+#     - Wendi Ren
+#     - Davi Nakajima An
+#     - Chao Zhang
+#     - Cassie Mitchell
+#   venue: "Findings of EMNLP"
+#   venue-shorthand: EMNLP (Findings)
+#   location: Online
+#   year: 2020
+#   icon: 20-denoising.png
+#   tagline: Denoising Multi-Source Weak Supervision for Neural Text Classification
+#   pdf: "https://aclanthology.org/2020.findings-emnlp.334.pdf"
+#   url: "https://davidkartchner.com/papers/multi-source-weak-supervision"
+#   video: "https://slideslive.com/38940139/denoising-multisource-weak-supervision-for-neural-text-classification"
+#   code: "https://github.com/weakrules/Denoise-multi-weak-sources"
+#   type: conference
+#   figure: /images/papers/20-denoising.png
+#   doi: "10.18653/v1/2020.findings-emnlp.334"
+#   bibtex: |-
+
+#     @inproceedings{ren-etal-2020-denoising,
+#       title = "Denoising Multi-Source Weak Supervision for Neural Text Classification",
+#       author = "Ren, Wendi  and
+#         Li, Yinghao  and
+#         Su, Hanting  and
+#         Kartchner, David  and
+#         Mitchell, Cassie  and
+#         Zhang, Chao",
+#       booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+#       month = nov,
+#       year = "2020",
+#       address = "Online",
+#       publisher = "Association for Computational Linguistics",
+#       url = "https://aclanthology.org/2020.findings-emnlp.334",
+#       doi = "10.18653/v1/2020.findings-emnlp.334",
+#       pages = "3739--3754"
+#   }

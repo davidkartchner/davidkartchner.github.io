@@ -1,0 +1,87 @@
+- institution: Georgia Institute of Technology
+  position: Graduate Teaching Assistant
+  location: "Atlanta, GA"
+  year: Summer 2019
+  class: "Computing for Data Analysis (CX 4240)"
+  instructor: Mahdi Roozbahani
+  description: "Designed homeworks, graded homework, held weekly office hours, and mentored student on team projects for CX 4240, an undergraduate introduction to machine learning"
+  institution-url: http://gatech.edu
+  ta: true
+
+- institution: Georgia Institute of Technology
+  position: Invited Guest Lecturer
+  location: "Atlanta, GA"
+  year: Spring 2019
+  class: "Data Analytics for Business (MGT 6203)"
+  instructor: Michael Lowe
+  description: "Presented a week of lectures on web scraping, tweet streaming, and natural language processing for Master's of Analytics program"
+  institution-url: http://gatech.edu
+  ta: true
+
+- institution: Brigham Young University
+  position: Graduate Teaching Assistant
+  location: "Provo, UT"
+  year: Aug 2017 - April 2018
+  class: "Modeling with Data and Uncertainty (Math 323, Math 325)"
+  instructor: Tyler Jarvis
+  description: "Graded homeworks, taught lectures, designed curriculum, and mentored students on team projects for Math 322 and 324, a rigorous two-semester course on probabilistic mathematics and machine learning"
+  institution-url: http://byu.edu
+  ta: true
+
+- institution: Brigham Young University
+  position: Graduate Teaching Assistant
+  location: "Provo, UT"
+  year: Spring 2017
+  class: "Abstract Algebra (Math 371)"
+  instructor: Stephen Humpheries
+  description: "Graded homeworks, held office hours, and reviewed concepts with students for Math 371, an undergraduate abstract algebra course."
+  institution-url: http://byu.edu
+  ta: true
+
+- institution: Brigham Young University
+  position: Lab Instructor
+  location: "Provo, UT"
+  year: Aug 2016 - April 2017
+  class: "Data Science Essentials (Math 324, Math 326)"
+  instructor: Tyler Jarvis
+  description: "Taught and graded weekly lab on data analysis to cohort of 35 undergraduates.  Topics covered included data cleaning and analysis in python, SQL, bash shell, regular expressions, MongoDB, web scraping/crawling, and interactive visualization."
+  institution-url: http://byu.edu
+  class-url: https://foundations-of-applied-mathematics.github.io/
+  ta: true
+
+- institution: Brigham Young University
+  position: Teaching Assistant 
+  location: "Provo, UT"
+  year: Spring 2016
+  class: "Econometrics (Econ 380)"
+  instructor: Brigham Frandsen
+  description: "Graded homeworks, held office hours, and taught reviews for class of Econ 380, an undergraduate econometrics course"
+  institution-url: http://byu.edu
+  ta: true
+
+- institution: Brigham Young University
+  position: Teaching Assistant 
+  location: "Provo, UT"
+  year: Fall 2014
+  class: "Statistics for Economists (Econ 378)"
+  instructor: Brigham Frandsen
+  description: "Graded homeworks, held office hours, and taught reviews for class of Econ 378, an undergraduate statistics course"
+  institution-url: http://byu.edu
+  ta: true
+
+- institution: Brigham Young University
+  position: Teaching Assistant 
+  location: "Provo, UT"
+  year: Summer 2014
+  class: "Microeconomics (Econ 381)"
+  instructor: Brigham Frandsen
+  description: "Graded homeworks, held office hours, and taught reviews for class of Econ 381, an undergraduate microenomics course"
+  institution-url: http://byu.edu
+  ta: true
+
+- institution: Self-Employed
+  position: Tutor
+  location: "Provo, UT"
+  year: "2014-2017"
+  description: "Tutored undergraduates in calculus, linear algebra, and economics.  Also tutored wide range of high school subjects."
+  ta: false

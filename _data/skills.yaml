@@ -1,0 +1,54 @@
+- name: OS
+  items:
+    - Mac OS X
+    - Ubuntu
+    - Unix Command Line
+    - Windows
+
+- name: Machine Learning
+  items: 
+    - Pytorch
+    - Pandas
+    - SpaCy
+    - Google API suite
+    - RDKit
+    - Huggingface 
+
+- name: Programming
+  items:
+    - Python
+    - R
+    - Stata
+    - Mathematica
+
+- name: Web and Writing
+  items: 
+    - HTML
+    - Web scraping
+    - SQL
+    - Cypher
+    - LaTeX
+    - Markdown
+    - Jekyll
+    - Git
+
+- name: Graphics
+  items: 
+  - Matplotlib
+  - Bokeh
+  - Draw.io 
+
+- name: Languages
+  items: 
+    - English (Native)
+    - Tagalog (Professional)
+    - Spanish (Intermediate)
+    - German (Intermediate)
+
+# - name: HCI
+#   items:
+#   - Contextual Inquiry
+#   - Think-Alouds
+#   - User Personas
+#   - Rapid Paper Prototyping
+#   - Affinity Diagraming
