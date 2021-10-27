@@ -21,14 +21,14 @@ type: conference
 doi: "10.1109/ICHI.2017.86"
 bibtex: |-
 
-  @inproceedings{kartchner2017cost,
-  title={Cost reduction via patient targeting and outreach: a statistical approach},
-  author={Kartchner, David and Merrill, Andy and Wrathall, Jonathan},
-  booktitle={2017 IEEE International Conference on Healthcare Informatics (ICHI)},
-  pages={513--517},
-  year={2017},
-  organization={IEEE}
-}
+    @inproceedings{kartchner2017cost,
+        title={Cost reduction via patient targeting and outreach: a statistical approach},
+        author={Kartchner, David and Merrill, Andy and Wrathall, Jonathan},
+        booktitle={2017 IEEE International Conference on Healthcare Informatics (ICHI)},
+        pages={513--517},
+        year={2017},
+        organization={IEEE}
+    }
 ---
 
 Identifying future high-cost patients allows healthcare organizations to take preventative measures to both reduce future patient costs and lessen the burden of illness. 

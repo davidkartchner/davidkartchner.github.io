@@ -29,14 +29,14 @@ doi: "10.1109/ICHI.2018.00108"
 featured: false
 bibtex: |-
 
-  @inproceedings{christensen2018machine,
-  title={Machine learning methods for disease prediction with claims data},
-  author={Christensen, Tanner and Frandsen, Abraham and Glazier, Seth and Humpherys, Jeffrey and Kartchner, David},
-  booktitle={2018 IEEE International Conference on Healthcare Informatics (ICHI)},
-  pages={467--4674},
-  year={2018},
-  organization={IEEE}
-}
+    @inproceedings{christensen2018machine,
+        title={Machine learning methods for disease prediction with claims data},
+        author={Christensen, Tanner and Frandsen, Abraham and Glazier, Seth and Humpherys, Jeffrey and Kartchner, David},
+        booktitle={2018 IEEE International Conference on Healthcare Informatics (ICHI)},
+        pages={467--4674},
+        year={2018},
+        organization={IEEE}
+    }
 ---
 
 One of the primary challenges of healthcare delivery is aggregating disparate, asynchronous data sources into meaningful indicators of individual health. 
