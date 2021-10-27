@@ -24,6 +24,10 @@ poster: "https://davidkartchner.com/papers/20-regal-poster.pdf"
 
 type: workshop
 figure: /images/papers/20-regal.png
+feature-title: "ReGAL: Rule-Generative Active Learning for Model-in-the-Loop Weak Supervision"
+feature-description: An AI-assisted interactive tool for creating labeling functions used in weak supervision.
+feature-order: 1
+featured: true
 bibtex: |-
 
   @inproceedings{kartchner2020regal,

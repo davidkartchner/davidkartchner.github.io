@@ -84,7 +84,7 @@ title: Home
 </h2>
 <div id="everything-else" class="l-middle">
 	<a href="{{ site.url }}/projects"><div>Projects</div></a>
-	<a href="{{ site.url }}/blog"><div>Blog</div></a>div></a>
+	<a href="{{ site.url }}/blog"><div>Blog</div></a>
 	<a href="{{ site.url }}/archive"><div>Archive</div></a>
 </div>
 <!-- <p class="l-middle intro-text" markdown="1">

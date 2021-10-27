@@ -30,6 +30,11 @@ url: "https://www.mdpi.com/1999-4923/13/6/794"
 type: journal
 figure: /images/papers/21-covid.png
 doi: "10.3390/pharmaceutics13060794"
+feature-title: "Biomedical Text Link Prediction for Drug Discovery: A Case Study with COVID-19"
+feature-description: A knowledge graph link prediction tool to be used for prediction of novel drugs for COVID-19
+feature-order: 2
+featured: true
+
 bibtex: |-
 
   @article{mccoy2021biomedical,

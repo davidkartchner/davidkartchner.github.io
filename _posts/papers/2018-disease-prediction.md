@@ -26,6 +26,7 @@ collaboration: Intermountain Healthcare
 type: conference
 # figure: /images/papers/17-code2vec.png
 doi: "10.1109/ICHI.2018.00108"
+featured: false
 bibtex: |-
 
   @inproceedings{christensen2018machine,
