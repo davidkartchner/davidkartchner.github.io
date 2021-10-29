@@ -10,7 +10,7 @@ jsarr:
 
 <p id="cv-subtitle"><i>Researcher + Entrepreneur (<span class="cv-ai">ML</span> + <span class="cv-vis">Biomedicine</span>)</i></p>
 
-<div id="cv-toc">
+<!-- <div id="cv-toc">
 <ul class="cv-description">
 	<li>Education</li>
 	<li>Industry Experience</li>
@@ -25,7 +25,7 @@ jsarr:
 	<li>Service</li>
 	<li>References</li>
 </ul>
-</div>
+</div> -->
 
 <div>
 I research how to enable <b><span class="cv-ai">natural language processing</span></b> on new and dynamic problems by developing ai-driven models for scalable data labeling powered by active learning and weak supervision. I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology and improve care delivery.

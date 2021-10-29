@@ -1,8 +1,8 @@
 - id: home
-  description: "davidkartchner.com"
+  description: "davidkartchner.github.io"
   color: "#515151"
   class: "fas fa-home icon"
-  url: "https://davidkartchner.com"
+  url: "https://davidkartchner.github.io"
   on-homepage: false
   cv-group: 1
 
@@ -50,7 +50,7 @@
   description: CV PDF
   color: "#ba2818"
   class: "far fa-file-pdf icon"
-  url: "https://davidkartchner.com/cv.pdf"
+  url: "https://davidkartchner.github.io/cv.pdf"
   on-homepage: false
   cv-group: 1
 
@@ -58,5 +58,5 @@
   description: Here's my CV
   color: "#515151"
   class: "fa fa-address-card icon"
-  url: "https://davidkartchner.com/cv/"
+  url: "https://davidkartchner.github.io/cv/"
   on-homepage: false
