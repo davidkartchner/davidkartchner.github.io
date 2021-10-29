@@ -257,7 +257,6 @@ Universe
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
 [coc]: http://www.cc.gatech.edu "GT College of Computing"
 
-<!-- [david]: http://davidkartchner.com "David Kartchner" -->
 [david]: http://davidkartchner.github.io "David Kartchner"
 
 [github]: https:/www.github.com/davidkartchner "github.com/davidkartchner"

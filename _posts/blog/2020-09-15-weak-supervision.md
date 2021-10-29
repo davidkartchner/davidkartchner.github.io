@@ -60,7 +60,7 @@ This paper has a few main weaknesses:
 
 # ASTRA: Self Training with Weak Supervision
     ### TL;DR 
-        Astra combines principles of self-supervised and semi-supervised learning to combine weak rules, a small amount of labeled data, and all unlabeled data into a more effective end-to-end model for weak supervision.
+        ASTRA combines principles of self-supervised and semi-supervised learning to combine weak rules, a small amount of labeled data, and all unlabeled data into a more effective end-to-end model for weak supervision.
 
     ### Algorithm
         1. **Initial Student Model**
@@ -72,7 +72,36 @@ This paper has a few main weaknesses:
             $$ \sum_{j=0}^{|R|} \frac{s_i^j}{|R_i| + 1}$$
             Note that here, $\s_i^0$ corresponds to the predictions of the old student model and $R_i$ is the set of matched rules on instance $x_i$
         4. **Training**
-            We fine-tune the 
+            For training, ASTRA fine-tunes the 
+
+
+# WeaSEL
+    ### TL;DR
+        WeaSEL postulates that the approach of training a label model followed by a downstream model is ineffective because it (1) requires restrictive assumptions interactions between labeling functions and (2) isn't able to learn from the downstream model it is meant to train.  It proposes a fix for this by learning instance-dependent LF aggregation weights and jointly optimizing these with a downstream neural network model.
+
+    ### Algorithm
+        **Assumptions** Assume access to a set of labeling functions $\Lambda$ and data (**x**, y).  Each labeling function outputs a one-hot vector corresponding to the class is votes for.  We assume no access to labeled data.  We assume two different models that interact: (1) a rule encoder *e* that takes as input *x* and $\Lambda$ and outputs an aggregates rule probability and (2) a downstream model *f* that takes **x** as input and predicts the label based on these input features. In the paper, both *e* and *f* are MLPs.   The model's components and training are described below.
+
+        1. **Rule Aggregator $e$**
+            We aggregate LFs at an instance-specific level using a softmax with temperature.  First, we obtain unnormalized scores for each LF as:
+
+            $$\theta(\Lambda, x) = \tau_2 softmax(e(\Lambda, x) \tau_1)$$
+
+            The final probabilistic prediction then becomes:
+
+            $$y_e = softmax(\theta(\Lambda, x)^T \Lambda)$$
+
+            i.e. the softmax of the weighted sum of LFss. Note that in practice, $\tau_1 \leq \frac{1}{3}$ and $\tau_2=\sqrt(m)$.  $\tau_1 < 1$ smooths the softmax to more closely resemble the uniform distribution and $\tau_2 > 1$ sharpens the final aggregation of LFs.
+
+            In the paper, they describe the Rule Aggregator as using a neural network to reparameterize the posterior label model probability produced by the Markov Random Field used in the Snorkel papers.
+
+        2. They train $e$ and $f$ using a semi-supervised inspired loss:
+            $$L = CE(y_e, `stop_grad`(y_f)) + CE(y_f, `stop_grad`(y_e))$$
+            That is, each model is trained to mimic the logits produced by the other.
+    
+    ### Comments
+        The authors claim that using this 
+
 
         
 
