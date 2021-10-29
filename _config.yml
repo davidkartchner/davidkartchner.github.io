@@ -1,6 +1,6 @@
 title: David Kartchner
 tagline: PhD Student and Entrpereneur
-url: http://davidkartchner.com
+# url: http://davidkartchner.com
 baseurl: ""
 # gems: [jekyll-paginate]
 # paginate: 5
@@ -15,8 +15,8 @@ sass:
 
 author:
   name: David Kartchner
-  url: http://davidkartchner.com
-  email: davidkartchner@gmail.com
+  # url: http://davidkartchner.com
+  email: davidk.kartchner@gatech.edu
 
 markdown: kramdown
 highlighter: rouge
