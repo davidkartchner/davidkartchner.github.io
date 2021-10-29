@@ -17,14 +17,9 @@ year: 2018
 icon: 18-disease-prediction.png
 tagline: Predicting chronic disease onset with insurance claims
 pdf: "https://ieeexplore.ieee.org/abstract/document/8419439"
-# acm: "https://dl.acm.org/citation.cfm?id=3027063.3053103"
-url: "https://davidkartchner.com/papers/disease-prediction"
-# video: "https://www.youtube.com/watch?v=wRX1xEdrD1g"
-# code: "https://www.github.com/fredhohman/shapeshop"
-# poster: "https://davidkartchner.com/papers/17-code2vec-poster.pdf"
+url: "papers/disease-prediction"
 collaboration: Intermountain Healthcare
 type: conference
-# figure: /images/papers/17-code2vec.png
 doi: "10.1109/ICHI.2018.00108"
 featured: false
 bibtex: |-

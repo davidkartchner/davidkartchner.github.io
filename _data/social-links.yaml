@@ -25,7 +25,7 @@
 - id: linkedin
   description: David-S-Kartchner
   color: "#2867B2"
-  class: "fa fa-linkedin-square"
+  class: "fa-lg fab fa-linkedin-in"
   url: "https://linkedin.com/in/david-s-kartchner"
   on-homepage: true
   cv-group: 2

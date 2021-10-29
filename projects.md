@@ -6,9 +6,9 @@ permalink: projects/
 
 Projects I have worked on, including academic work and personal side projects.
 
-### Coming Soon!
+<!-- ### Coming Soon! -->
 
-<!-- ### Research
+### Research
 <ul>
     {% for pub in site.categories.papers %}
     {% assign title = pub.id | split: "/" %}
@@ -17,7 +17,7 @@ Projects I have worked on, including academic work and personal side projects.
 </ul>
 
 
-### Interactive Articles
+<!-- ### Interactive Articles
 <ul>
     {% for article in site.data.articles %}
         <li><a href="{{ article.url }}" style="text-transform: capitalize">{{ article.title }}</a> <small style="color: #c0c0c0">{{ article.year }}</small></li>
@@ -35,9 +35,9 @@ Projects I have worked on, including academic work and personal side projects.
 [3D Printing the Trefoil Knot and its Pages][trefoil] <small style="color: #c0c0c0">2015</small>
 
 ### REU
-[Math & Computational Science REU][reu] <small style="color: #c0c0c0">2014</small>
+[Math & Computational Science REU][reu] <small style="color: #c0c0c0">2014</small> -->
 
-### Academic
+<!-- ### Academic
 <ul>
     <li><a href="{{ site.url }}/projects/cs-6750-health-easel">Health Easel</a> <small style="color: #c0c0c0">2017</small></li>
     <li><a href="{{ site.url }}/projects/cs-7450-a-viz-of-ice-and-fire">A Viz of Ice and Fire</a> <small style="color: #c0c0c0">2016</small></li>

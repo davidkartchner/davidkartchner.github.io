@@ -28,7 +28,7 @@ selected: true
 feature-order: 2
 feature-title: "Multi-source Weak Supervision"
 feature-description: "Semi-supervised learning framework for learning for weakly supervised learning"
-image: /featured/20-weak.png
+image: /images/featured/20-weak.png
 bibtex: |-
 
     @inproceedings{ren-etal-2020-denoising,

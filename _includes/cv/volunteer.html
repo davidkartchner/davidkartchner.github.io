@@ -1,0 +1,19 @@
+<div class="cv-left-date">{{ volunteer.year }}</div>
+<div>{% if volunteer.org-url %}
+    <a href="{{ volunteer.org-url }}">
+        <b>{{ volunteer.position }}</b>
+    </a>
+    {% else %}
+        <b>{{ volunteer.position }}</b>{% endif %}
+</div>
+
+<div><i><a href="{{ volunteer.institution-url }}">{{ volunteer.institution }}</a>, {{ volunteer.location }}</i></div>
+
+{% comment %} {% if volunteer.org == true %}
+<div class="cv-description">
+<a href="{{ volunteer.org-url }}">{{ volunteer.org }}</a>
+</div>
+{% endif %} {% endcomment %}
+
+<div class="cv-description">{{ volunteer.description }}</div>
+<div class="cv-spacer"></div>

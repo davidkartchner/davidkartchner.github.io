@@ -10,10 +10,10 @@ jsarr:
 
 <p id="cv-subtitle"><i>Researcher + Entrepreneur (<span class="cv-ai">ML</span> + <span class="cv-vis">Biomedicine</span>)</i></p>
 
-<!-- <div id="cv-toc">
+<div id="cv-toc">
 <ul class="cv-description">
 	<li>Education</li>
-	<li>Industry Research</li>
+	<li>Industry Experience</li>
 	<li>Academic Research</li>
 	<li>Honors and Awards</li>
 	<li>Publications</li>
@@ -22,12 +22,10 @@ jsarr:
 	<li>Teaching</li>
 	<li>Mentoring</li>
 	<li>Grants and Funding</li>
-	<li>Interactive Articles</li>
 	<li>Service</li>
-	<li>Design</li>
 	<li>References</li>
 </ul>
-</div> -->
+</div>
 
 <div>
 I research how to enable <b><span class="cv-ai">natural language processing</span></b> on new and dynamic problems by developing ai-driven models for scalable data labeling powered by active learning and weak supervision. I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology and improve care delivery.
@@ -74,7 +72,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endfor %}
 {:/}
 
-## Industry Research Experience
+## Industry Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
@@ -139,12 +137,12 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-### Demo
+<!-- ### Demo
 
 {% assign demo = site.categories.papers | where: 'type', "demo" %}
 {% for pub in demo %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} -->
 
 ### Miscellaneous
 
@@ -181,17 +179,14 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {:/}
 
 
+## Volunteer & Leadership Experience
 
+<!-- <div class="cv-service-title"><b>Community Outreach</b></div> -->
+{% for volunteer in site.data.volunteer %}
+{% include cv/volunteer.html volunteer=volunteer %}
+{% endfor %}    
 
-<!-- ## Technology Skills
-
-{% for skill in site.data.skills %}
-{% include cv/skill.html skill=skill %}
-{% endfor %} -->
-
-## Service
-
-<div class="cv-service-title"><b>Organizer</b></div>
+<!-- <div class="cv-service-title"><b>Organizer</b></div>
 {% for venue in site.data.organizer %}
 {% include cv/venue.html venue=venue %}
 {% endfor %}
@@ -204,23 +199,30 @@ My research is supported by a NASA Space Technology Research Fellowship.
 <div class="cv-service-title"><b>Reviewer</b></div>
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
-{% endfor %}
+{% endfor %} -->
 
-<div class="cv-service-title"><b>Institutional</b></div>
+<!-- <div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}
 {% include cv/institutional.html institution=institution %}
-{% endfor %}
+{% endfor %} -->
 
 <div class="cv-service-title"><b>Member</b></div>
 {% for member in site.data.memberships %}
 {% include cv/member.html member=member %}
 {% endfor %}
 
-## Design
+
+## Technical Skills
+
+{% for skill in site.data.skills %}
+{% include cv/skill.html skill=skill %}
+{% endfor %}
+
+<!-- ## Design
 
 {% for design in site.data.designs %}
 {% include cv/design.html design=design %}
-{% endfor %}
+{% endfor %} -->
 
 ## References
 
@@ -250,7 +252,7 @@ Universe
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
 
-[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
+[pathology-dynamics]: https://sites.gatech.edu/cassie-mitchell-lab/ "Pathology Dynamics Lab"
 [gt]: http://gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
 [coc]: http://www.cc.gatech.edu "GT College of Computing"
@@ -258,4 +260,4 @@ Universe
 [david]: http://davidkartchner.com "David Kartchner"
 
 [github]: https:/www.github.com/davidkartchner "github.com/davidkartchner"
-[nstrf]: https://www.nasa.gov/strg/nstrf "NASA Space Technology Research Fellowship"
+

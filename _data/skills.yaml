@@ -1,16 +1,36 @@
-- name: OS
+# - name: OS
+#   items:
+#     - Mac OS X
+#     - Ubuntu
+#     - Unix Command Line
+#     - Windows
+- name: Mathematics & Theory
   items:
-    - Mac OS X
-    - Ubuntu
-    - Unix Command Line
-    - Windows
+    - Natural Language Processing (NLP)
+    - Machine Learning
+    - Bayesian Statistics
+    - Computer Vision
+    - Matrix Analysis
+    - Complex Analysis
+    - Functional Analysis
+    - Numerical Linear Algebra
+    - Control Theory
+    - Probability Theory
+    - Deep Learning
+    - Parallel Computing
+    - Algorithm Design
+    - Linear & Nonlinear Optimization
+    - Active Learning
+    - Advanced Econometrics
+    - Abstract Algegra
+    - Differential Equations
 
 - name: Machine Learning
   items: 
     - Pytorch
     - Pandas
     - SpaCy
-    - Google API suite
+    - NLTK
     - RDKit
     - Huggingface 
 
@@ -21,7 +41,7 @@
     - Stata
     - Mathematica
 
-- name: Web and Writing
+- name: Web
   items: 
     - HTML
     - Web scraping
@@ -31,10 +51,12 @@
     - Markdown
     - Jekyll
     - Git
+    - Google API suite
 
-- name: Graphics
+- name: Visualization
   items: 
   - Matplotlib
+  - Seaborn
   - Bokeh
   - Draw.io 
 

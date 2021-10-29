@@ -14,8 +14,8 @@ location: Park City, UT, USA
 year: 2017
 tagline: Targeting Patients for Care Management
 pdf: "https://ieeexplore.ieee.org/abstract/document/8031203"
-url: "https://davidkartchner.com/papers/care-management"
-poster: "https://davidkartchner.com/papers/17-care-management-poster.pdf"
+url: "/papers/care-management"
+poster: "/papers/17-care-management-poster.pdf"
 collaboration: Intermountain Healthcare
 type: conference
 doi: "10.1109/ICHI.2017.86"

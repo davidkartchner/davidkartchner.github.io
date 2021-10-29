@@ -1,0 +1,61 @@
+- institution: Church of Jesus Christ of Latter-day Saints
+  position: Youth Mentor
+  location: "Atlanta, GA"
+  year: 2019 - Present
+  description: "Organize community service projects and teach leadership & life skills to youth ages 8-17"
+  institution-url: http://churchofjesuschrist.org
+
+- institution: Catholic Charities Atlanta
+  position: English Teacher
+  location: "Atlanta, GA"
+  year: Fall 2019
+  description: "Taught semester-long English as a second language course for immigrants to United States"
+  institution-url: http://catholiccharitiesatlanta.org
+
+- institution: Provo Youth Mentoring
+  position: Youth Mentor
+  location: "Provo, UT"
+  year: Spring 2015
+  # org: Provo Youth Mentoring
+  description: "Met weekly with elementary students to teach academic and life skills"
+  # institution-url: http://byu.edu
+  institution-url: https://yserve.byu.edu/ProvoYouthMentoring
+
+
+- institution: College of Physical and Mathematical Sciences, Brigham Young University
+  position: Student Alumni Relations Representative 
+  location: "Provo, UT"
+  year: 2017-2018
+  description: "Organized college-wide student-alumni networking dinner.  Organized fundraising event for student-to-student need-based scholarship program. Met regularly with dean to discuss and address student needs."
+  institution-url: https://cpms.byu.edu/
+
+
+- institution: Church of Jesus Christ of Latter-day Saints
+  position: Full-time Missionary and Representative
+  location: "Atlanta, GA"
+  year: Nov 2011 - Nov 2013
+  description: "Taught lessons in Tagalog language designed to strengthen families and communities.  Organized quarterly conference and trainings for volunteers across six cities.  Gathered and analyzed organizational data for regional leadership.  Organized and coordinated community service projects with local leaders."
+  institution-url: http://churchofjesuschrist.org
+
+- institution: Adopt-a-Grandparent
+  position: Volunteer
+  location: "Provo, UT"
+  year: 2010 - 2011
+  # org: Adopt-a-Grandparent
+  description: Regularly visited with seniors confined to local nursing homes to provide friendship and emotional support.
+  # institution-url: http://byu.edu
+  institution-url: https://yserve.byu.edu/AdoptAGrandparent
+
+- institution: Murray Youth City Council
+  position: Volunteer
+  location: Murray, UT
+  year: 2009 - 2010
+  description: Assisted with local community outreach events including food drives, civil rights benefits fundraiser, and community health fair.
+  institution-url: http://murrayyouthexcel.com/
+
+# - institution: Church of Jesus Christ of Latter-day Saints
+#   position: Regional Supervisor & Representative
+#   location: "Atlanta, GA"
+#   year: August 2019 - Present
+#   description: "Organize community service projects and teach leadership & life skills to youth ages 8-17"
+#   institution-url: http://churchofjesuschrist.org

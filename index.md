@@ -48,7 +48,6 @@ title: Home
 				{% include social-link.html link=link %}
 			{% endif %}
 		{% endfor %}
-		<!-- <div id="intro-cv"><a href="/cv">Here's my CV.</a></div> -->
 	</div>
 	</div>
 </div>
@@ -66,18 +65,6 @@ title: Home
 		{% endif %}
 	{% endfor %}
 </div>
-
-<!-- <h2 class="feature-title l-middle">
-	Featured <a href="/cv#interactive-articles">Interactive Articles</a>
-</h2>
-<div class="cover-wrapper l-screen">
-	{% assign sortedArticles = site.data.articles | sort: 'feature-order' %}
-	{% for feature in sortedArticles %}
-		{% if feature.featured == true %}
-			{% include feature.html feature=feature %}
-		{% endif %}
-	{% endfor %}
-</div> -->
 
 <h2 class="feature-title l-middle">
 	<a href="{{ site.url }}/everything-else" style="color: #303030">Everything Else</a>
