@@ -20,20 +20,7 @@ venue-shorthand: BMES
 location: Online
 year: 2020
 url: /papers/covid-bmes
-# pdf: https://arxiv.org/abs/2001.07769
 type: poster
-# figure: /images/papers/20-massif-arxiv.png
-# doi: "10.1145/3334480.3382977"
-# bibtex: |-
-
-#   @inproceedings{das2020massif,
-#       title={Massif: Interactive Interpretation of Adversarial Attacks on Deep Learning},
-#       author={Wang, Zijie J. and Turko, Robert and Shaikh, Omar and Park, Haekyu and Das, Nilaksh and Hohman, Fred and Kahng, Minsuk and Chau, Duen Horng (Polo)},
-#       booktitle={Proceedings of the 2020 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
-#       publisher={ACM},
-#       year={2020},
-#       doi={10.1145/3334480.3382977}
-#   }
 ---
 
 **Introduction:** The emergence of COVID-19 has resulted in a widespread pandemic with a critical need for
