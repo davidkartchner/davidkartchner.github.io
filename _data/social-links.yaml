@@ -15,10 +15,10 @@
   cv-group: 1
 
 # - id: twitter
-#   description: "@fredhohman"
+#   description: "@davidkartchner"
 #   color: "#1da1f2"
 #   class: "fab fa-twitter icon"
-#   url: https://twitter.com/fredhohman
+#   url: https://twitter.com/davidkartchner
 #   on-homepage: true
 #   cv-group: 2
 
