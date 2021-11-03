@@ -6,8 +6,7 @@ permalink: blog/
 
 <p>Things I spend time thinking about</p>
 
-### Coming Soon!
-<!-- 
+
 <div class="posts">
   {% for post in site.categories.blog limit:5 %}
   <article class="post">
@@ -40,4 +39,4 @@ permalink: blog/
     </time>
   </article>
   {% endfor %}
-</div> -->
+</div>

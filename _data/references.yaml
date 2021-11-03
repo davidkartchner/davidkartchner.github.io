@@ -25,14 +25,14 @@
   website: "math.byu.edu/~jarvis/"
   url: "http://www.math.byu.edu/~jarvis/"
 
-- name: Anne Cocos
-  position: Director of Data Science
-  # group: Visualization and Interactive Data Analysis Group
-  institution: Ask Iggy
-  location: Philadelphia, PA, USA
-  phd: true
-  website: "acocos.github.io/"
-  url: "https://acocos.github.io/"
+# - name: Anne Cocos
+#   position: Director of Data Science
+#   # group: Visualization and Interactive Data Analysis Group
+#   institution: Ask Iggy
+#   location: Philadelphia, PA, USA
+#   phd: true
+#   website: "acocos.github.io/"
+#   url: "https://acocos.github.io/"
 
 - name: David Healey
   position: Vice President of Data Science
