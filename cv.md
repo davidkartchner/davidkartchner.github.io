@@ -250,7 +250,7 @@ Universe
 </span> -->
 
 
-[cv]: {{ site.url }}/cv.pdf "My CV."
+[cv]: /cv.pdf "My CV."
 
 [pathology-dynamics]: https://sites.gatech.edu/cassie-mitchell-lab/ "Pathology Dynamics Lab"
 [gt]: http://gatech.edu "Georgia Tech"
