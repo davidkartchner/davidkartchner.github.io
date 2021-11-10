@@ -8,6 +8,7 @@
   items:
     - Natural Language Processing (NLP)
     - Machine Learning
+    - Deep Learning
     - Bayesian Statistics
     - Computer Vision
     - Matrix Analysis
@@ -16,7 +17,6 @@
     - Numerical Linear Algebra
     - Control Theory
     - Probability Theory
-    - Deep Learning
     - Parallel Computing
     - Algorithm Design
     - Linear & Nonlinear Optimization
@@ -24,6 +24,7 @@
     - Advanced Econometrics
     - Abstract Algegra
     - Differential Equations
+    - Information Retrieval
 
 - name: Machine Learning
   items: 
