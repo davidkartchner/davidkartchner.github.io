@@ -12,7 +12,8 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to enable <b><span class="cv-ai">natural language processing</span></b> on new and dynamic problems by developing ai-driven models for scalable data labeling powered by active learning and weak supervision. I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology and improve care delivery.  
+		I research <b><span class="cv-ai">natural language processing</span></b> methods for extracting and synthesizing information from biomedical text to power applications in <b><span class="cv-vis">biomedicine</span></b>, <b><span class="cv-vis">drug discovery</span></b> and <b><span class="cv-vis">healthcare</span></b>.  My research at Georgia Tech focuses on <b><span class="cv-ai">active, weakly-supervised, and semi-supervised learning</span></b> methods for text mining and information extraction with limited to no labeled data.
+		<!-- I research how to enable <b><span class="cv-ai">natural language processing</span></b> on new and dynamic problems by developing ai-driven models for scalable data labeling powered by active learning and weak supervision. I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology and improve care delivery.   -->
 	</div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
@@ -20,7 +21,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
     <div>
-        I have collaborated with scientists, developers, clinicians, and epidemiologists while working at Facebook, GlaxoSmithKline, Recursion Pharmaceuticals, and Intermountain Healthcare.
+        I have collaborated with scientists, developers, clinicians, and epidemiologists while working at <a href="https://www.envedabio.com">Enveda Bioscienes</a>, Facebook, <a href="https://www.gsk.com">GlaxoSmithKline</a>, <a href="https://www.recursion.com">Recursion Pharmaceuticals</a>, and <a href="https://intermountainhealthcare.org">Intermountain Healthcare</a>.
     </div>
 	<!-- <div>
 		I have collaborated with designers, developers, and scientists while working at <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/apple.svg"> Apple, <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/microsoft.svg"> Microsoft Research, <img class="intro-logo" style="width: 24px" src="/images/nasa.svg"> NASA Jet Propulsion Lab, and <img class="intro-logo" style="width: 24px;" src="/images/pnnl.svg"> Pacific Northwest National Lab.
