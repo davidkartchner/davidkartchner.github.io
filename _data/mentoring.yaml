@@ -1,15 +1,15 @@
 - name: Davi Nakajima An
-  year: "Fall 2019 - Present"
+  year: "Fall 2019 - Spring 2022"
   # year-extra: "Spr. 2019"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Text mining and knowledge graph completion"
   # awards:
   #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
   #   - "President's Undergraduate Research Award"
-  # now-position: Software Engineer II
-  # now-institution: Google
-  # now-institution-url: https://www.google.com/
-  url: https://davinan.github.io/portfolio/
+  now-position: PhD Student, Molecular Engineering and Sciences
+  now-institution: University of Washington
+  now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/davinan/
 
 - name: Xinyu Chen
   year: Spring 2021
@@ -27,13 +27,110 @@
   now-institution-url: https://www.3m.com/
   url: https://bradymariebove.com/
   
-# - name: Jochen Görtler
-#   intern: Apple
-#   intern-url: https://www.apple.com/
-#   year: "Summer 2020"
-#   degree: "Ph.D. in Computer Science, University of Konstanz"
-#   description: "Interactive confusion matrices and visualization for error analysis in machine learning"
-#   url: https://www.jgoertler.com/
+- name: Kevin McCoy
+  year: "Fall 2021 - Spring 2022"
+  # year-extra: "Spr. 2019"
+  degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
+  description: "Text mining for drug repurposing and mechanism of action prediction in COVID-19 and Cardiovascular Disease"
+  awards:
+    - "Sigma Xi Undergraduate Research Award, Georgia Institute of Technology"
+  now-position: PhD Student, Statistics
+  now-institution: Rice University
+  now-institution-url: https://www.rice.edu/
+  url: https://www.linkedin.com/in/kmccoy3/
+
+- name: Haydn Turner
+  year: "Fall 2021 - Present"
+  # year-extra: "Spr. 2019"
+  degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  # now-position: PhD Student, Molecular Engineering and Sciences
+  # now-institution: University of Washington
+  # now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/haydn-turner-5506a2234/
+
+- name: Alexis Nunn
+  year: "Fall 2021"
+  # year-extra: "Spr. 2019"
+  degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  now-position: Product Engineer
+  now-institution: Huxley Medical
+  # now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/alexis-nunn/
+
+- name: Dongyu Zhang
+  year: "Spring 2022 - Present"
+  # year-extra: "Spr. 2019"
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  # now-position: PhD Student, Molecular Engineering and Sciences
+  # now-institution: University of Washington
+  # now-institution-url: https://www.moles.washington.edu/
+  # url: https://www.linkedin.com/in/davinan/
+
+- name: Jennifer Deng
+  year: "Fall 2022- Present"
+  # year-extra: "Spr. 2019"
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Entity linking for automated knowledge graph construction"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  # now-position: PhD Student, Molecular Engineering and Sciences
+  # now-institution: University of Washington
+  # now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/jennifer-deng-316359185/
+
+- name: Shubham Lohiya
+  year: "Fall 2022 - Present"
+  # year-extra: "Spr. 2019"
+  degree: "M.S. in Computer Science, Georgia Institute of Technology"
+  description: "Entity linking for automated knowledge graph construction"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  # now-position: PhD Student, Molecular Engineering and Sciences
+  # now-institution: University of Washington
+  # now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/lohiya-shubham/
+
+- name: Tejasri Kopparthi
+  year: "Spring 2022 - Present"
+  # year-extra: "Spr. 2019"
+  degree: "M.S. in Computer Science, Georgia Institute of Technology"
+  description: "Entity linking for automated knowledge graph construction"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  # now-position: PhD Student, Molecular Engineering and Sciences
+  # now-institution: University of Washington
+  # now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/tejasri-kopparthi-7483a9132/
+
+- name: Janvi Dubey
+  year: "Fall 2022 - Present"
+  # year-extra: "Spr. 2019"
+  degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
+  description: "Discovering causes of COVID-19 induced cardiovascular complications via text mining and knowldge graph analysis"
+  # awards:
+  #   - "Outstanding Undergraduate Researcher, College of Computing, Georgia Institute of Technology"
+  #   - "President's Undergraduate Research Award"
+  # now-position: PhD Student, Molecular Engineering and Sciences
+  # now-institution: University of Washington
+  # now-institution-url: https://www.moles.washington.edu/
+  url: https://www.linkedin.com/in/janhvi-dubey/
+
+
 
 # - name: Aspen Hopkins
 #   intern: Apple

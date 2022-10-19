@@ -1,3 +1,23 @@
+- institution: Glassbox Health
+  location: Atlanta, GA
+  position: Cofounder & CTO
+  year: Sept 2022 - Present
+  description: "Building AI-based assistant to provide personalized navigation of insurance coverage and healthcare costs"
+  institution-url: https://askglassboxhealth.com
+  type: industry
+
+- institution: Enveda Biosciences
+  location: Boulder, CO
+  position: Data Science Intern
+  group: "Knowledge Graph"
+  year: Summer 2022
+  mentors:
+    - Daniel Domingo-Fernandez
+  description: "Contributed to analysis and upgrade of internal entity linking pipeines for evidence based compound prioritization"
+  institution-url: https://envedabio.com
+  group-url: https://envedabio.com/
+  type: industry
+
 - institution: Facebook
   location: Menlo Park, CA
   position: Applied Research Science Intern

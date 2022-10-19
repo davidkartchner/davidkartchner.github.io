@@ -1,3 +1,76 @@
+- id: semnet-2
+  title: "Optimizations for Computing Relatedness in Biomedical Heterogeneous Information Networks: SemNet 2.0"
+  authors: 
+    - Anna Kirkpatrick
+    - Chidozie Onyeze
+    - David Kartchner
+    - Stephen Allegri
+    - Davi Nakajima An
+    - Kevin McCoy 
+    - Evie Davalbhakta
+    - Cassie S. Mitchell
+  venue: Big Data and Cognitive Computing
+  venue-shorthand: BDCC
+  year: 2022
+  tagline: Specialized Data Structures and Randomized Algorithms
+  pdf: https://www.mdpi.com/2504-2289/6/1/27
+  url: /papers/semnet2
+  figure: /papers/semnet2.png
+  type: journal
+  doi: "10.3390/bdcc6010027"
+  bibtex: |-
+
+      @article{kirkpatrick2022optimizations,
+      title={Optimizations for Computing Relatedness in Biomedical Heterogeneous Information Networks: SemNet 2.0},
+      author={Kirkpatrick, Anna and Onyeze, Chidozie and Kartchner, David and Allegri, Stephen and Nakajima An, Davi and McCoy, Kevin and Davalbhakta, Evie and Mitchell, Cassie S},
+      journal={Big Data and Cognitive Computing},
+      volume={6},
+      number={1},
+      pages={27},
+      year={2022},
+      publisher={MDPI}
+      }
+  
+- id: regal-journal
+  title: "Rule-Enhanced Active Learning for Semi-Automated Weak Supervision"
+  authors:
+    - David Kartchner
+    - Davi Nakajima An
+    - Wendi Ren
+    - Chao Zhang
+    - Cassie Mitchell
+  venue: "AI"
+  venue-shorthand: AI
+  location: Online
+  year: 2022
+  icon: 20-regal.png
+  tagline: Interactive Weak Supervision
+  pdf: "https://www.mdpi.com/2673-2688/3/1/13/pdf?version=1647423425"
+  url: /papers/regal
+  # poster: /papers/20-regal-poster.pdf
+  type: journal
+  doi: https://doi.org/10.3390/ai3010013
+  figure: /images/papers/20-regal.png
+  feature-title: "REGAL: Interactive Weak Supervision"
+  feature-description: An AI-assisted interactive tool for creating labeling functions used in weak supervision.
+  feature-order: 1
+  featured: true
+  selected: true
+  image: /images/featured/20-regal.png
+  bibtex: |-
+
+    @article{kartchner2022rule,
+      title={Rule-Enhanced Active Learning for Semi-Automated Weak Supervision},
+      author={Kartchner, David and Nakajima An, Davi and Ren, Wendi and Zhang, Chao and Mitchell, Cassie S},
+      journal={AI},
+      volume={3},
+      number={1},
+      pages={211--228},
+      year={2022},
+      publisher={MDPI}
+    }
+
+
 - id: code2vec
   title: "Code2vec: Embedding and Clustering Medical Diagnosis Data"
   authors:
@@ -148,15 +221,15 @@
   # icon: 20-regal.png
   tagline: Rule-generative active learning
   pdf: "https://openreview.net/pdf?id=FZDPu3JLEPg"
-  url: /papers/regal
+  url: /papers/regal-workshop
   poster: /papers/20-regal-poster.pdf
   type: workshop
   figure: /images/papers/20-regal.png
-  feature-title: "REGAL: Interactive Weak Supervision"
-  feature-description: An AI-assisted interactive tool for creating labeling functions used in weak supervision.
-  feature-order: 1
-  featured: true
-  selected: true
+  # feature-title: "REGAL: Interactive Weak Supervision"
+  # feature-description: An AI-assisted interactive tool for creating labeling functions used in weak supervision.
+  # feature-order: 1
+  # featured: true
+  # selected: true
   image: /images/featured/20-regal.png
   bibtex: |-
 
