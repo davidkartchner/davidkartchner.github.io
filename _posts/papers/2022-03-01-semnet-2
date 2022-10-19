@@ -1,0 +1,38 @@
+---
+layout: paper
+categories: papers
+permalink: papers/semnet-2
+id: semnet-2
+title: "Optimizations for Computing Relatedness in Biomedical Heterogeneous Information Networks: SemNet 2.0"
+authors: 
+  - Anna Kirkpatrick
+  - Chidozie Onyeze
+  - David Kartchner
+  - Stephen Allegri
+  - Davi Nakajima An
+  - Kevin McCoy 
+  - Evie Davalbhakta
+  - Cassie S. Mitchell
+venue: Big Data and Cognitive Computing
+venue-shorthand: BDCC
+year: 2022
+tagline: Specialized Data Structures and Randomized Algorithms
+pdf: https://www.mdpi.com/2504-2289/6/1/27
+url: /papers/semnet2
+figure: /papers/semnet2.png
+type: journal
+doi: "10.3390/bdcc6010027"
+bibtex: |-
+
+    @article{kirkpatrick2022optimizations,
+    title={Optimizations for Computing Relatedness in Biomedical Heterogeneous Information Networks: SemNet 2.0},
+    author={Kirkpatrick, Anna and Onyeze, Chidozie and Kartchner, David and Allegri, Stephen and Nakajima An, Davi and McCoy, Kevin and Davalbhakta, Evie and Mitchell, Cassie S},
+    journal={Big Data and Cognitive Computing},
+    volume={6},
+    number={1},
+    pages={27},
+    year={2022},
+    publisher={MDPI}
+    }
+---
+
