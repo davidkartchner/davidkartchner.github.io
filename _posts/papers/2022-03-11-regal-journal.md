@@ -23,7 +23,7 @@ type: journal
 figure: /images/papers/20-regal.png
 feature-title: "REGAL: Interactive Weak Supervision"
 feature-description: An AI-assisted interactive tool for creating labeling functions used in weak supervision.
-feature-order: 1
+feature-order: 3
 featured: true
 selected: true
 image: /images/featured/20-regal.png

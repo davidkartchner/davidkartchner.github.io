@@ -23,9 +23,9 @@ code: "https://github.com/weakrules/Denoise-multi-weak-sources"
 type: conference
 figure: /images/papers/20-denoising.png
 doi: "10.18653/v1/2020.findings-emnlp.334"
-featured: true
-selected: true
-feature-order: 2
+# featured: true
+# selected: true
+# feature-order: 2
 feature-title: "Multi-source Weak Supervision"
 feature-description: "Semi-supervised learning framework for learning for weakly supervised learning"
 image: /images/featured/20-weak.png
