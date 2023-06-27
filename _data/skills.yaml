@@ -7,6 +7,7 @@
 - name: Mathematics & Theory
   items:
     - Natural Language Processing (NLP)
+    - Large Language Models (LLMs)
     - Machine Learning
     - Deep Learning
     - Bayesian Statistics
@@ -34,6 +35,8 @@
     - NLTK
     - RDKit
     - Huggingface 
+    - LangChain
+    - OpenAI
 
 - name: Programming
   items:
@@ -56,10 +59,11 @@
 
 - name: Visualization
   items: 
-  - Matplotlib
+  - Figma
   - Seaborn
   - Bokeh
   - Draw.io 
+  
 
 - name: Languages
   items: 

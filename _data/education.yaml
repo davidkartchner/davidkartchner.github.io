@@ -3,10 +3,17 @@
   location: "Atlanta, GA"
   advisor: Cassie Mitchell
   co-advisor: None
-  years: "2018 - "
-  years-extra: "Present"
+  years: "Aug 2018 - "
+  years-extra: "Dec 2023"
   institution-url: https://www.gatech.edu/
-  thesis: "Efficient Label Acquisition for Biomedical and Low-Resource Machine Learning"
+  # thesis: "Efficient Label Acquisition for Biomedical and Low-Resource Machine Learning"
+  thesis: "Extracting and Structuring Information for Clinical Meta-Analysis and Drug Repurposing"
+  committee: 
+    - Cassie Mitchell
+    - Chao Zhang
+    - Duen Horng "Polo" Chau
+    - Jon Duke
+    - Daniel Domingo-Fernández
 
 - degree: "M.S. in Mathematics"
   institution: Brigham Young University

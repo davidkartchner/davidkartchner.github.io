@@ -1,6 +1,16 @@
 - institution: Georgia Institute of Technology
   position: Graduate Teaching Assistant
   location: "Atlanta, GA"
+  year: Fall 2022
+  class: "Intro to Graduate Computing"
+  instructor: Elizabeth Cherry
+  description: "Graded homework, held weekly office hours, and mentored student for CSE 6010, an introduction to graduate and parallel computing in C"
+  institution-url: http://gatech.edu
+  ta: true
+
+- institution: Georgia Institute of Technology
+  position: Graduate Teaching Assistant
+  location: "Atlanta, GA"
   year: Summer 2019
   class: "Computing for Data Analysis (CX 4240)"
   instructor: Mahdi Roozbahani

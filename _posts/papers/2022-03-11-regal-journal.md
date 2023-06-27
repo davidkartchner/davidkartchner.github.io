@@ -1,7 +1,7 @@
 ---
 layout: paper
 categories: papers
-permalink: papers/regal-workshop
+permalink: papers/regal-journal
 id: regal-journal
 title: "Rule-Enhanced Active Learning for Semi-Automated Weak Supervision"
 authors:

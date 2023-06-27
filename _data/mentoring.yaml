@@ -1,26 +1,39 @@
 - name: Jennifer Deng
-  year: "Fall 2022- Present"
+  year: "Fall 2022 - Present"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
-  description: "Entity linking for automated knowledge graph construction"
+  description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/jennifer-deng-316359185/
 
 - name: Shubham Lohiya
   year: "Fall 2022 - Present"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
-  description: "Entity linking for automated knowledge graph construction"
+  description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/lohiya-shubham/
 
-- name: Tejasri Kopparthi
+- name: Prasanth Bathala
   year: "Spring 2022 - Present"
+  degree: "M.S. in Computer Science, Georgia Institute of Technology"
+  description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
+  url: https://www.linkedin.com/in/b-prasanth/
+
+- name: Zihan Wei
+  year: "Fall 2022 - Present"
+  degree: "M.S. in Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automating clinical data extraction with LLMs"
+  url: https://www.linkedin.com/in/zihanwei99/
+
+- name: Tejasri Kopparthi
+  year: "Fall 2022"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: "Entity linking for automated knowledge graph construction"
   url: https://www.linkedin.com/in/tejasri-kopparthi-7483a9132/
 
 - name: Janvi Dubey
-  year: "Fall 2022 - Present"
+  year: "Fall 2022"
   degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
   description: "Discovering causes of COVID-19 induced cardiovascular complications via text mining and knowldge graph analysis"
   url: https://www.linkedin.com/in/janhvi-dubey/
+
 
 - name: Haydn Turner
   year: "Fall 2021 - Present"

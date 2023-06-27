@@ -1,9 +1,9 @@
 - institution: Glassbox Health
   location: Atlanta, GA
-  position: Cofounder & CTO
+  position: Co-Founder & CTO
   year: Sept 2022 - Present
-  description: "Building AI-based assistant to provide personalized navigation of insurance coverage and healthcare costs"
-  institution-url: https://askglassboxhealth.com
+  description: "Building an LLM-based assistant to provide personalized navigation of medical bills and healthcare costs"
+  institution-url: https://glassbox-health.com
   type: industry
 
 - institution: Enveda Biosciences
@@ -13,7 +13,9 @@
   year: Summer 2022
   mentors:
     - Daniel Domingo-Fernandez
-  description: "Contributed to analysis and upgrade of internal entity linking pipeines for evidence based compound prioritization"
+    - David Healey
+    - Joe Davison
+  description: "Performed systematic survey + implementation fo 20+ entity linking NLP models to improve accuracy evidence-based compound prioritization"
   institution-url: https://envedabio.com
   group-url: https://envedabio.com/
   type: industry
@@ -25,7 +27,7 @@
   year: Summer 2021
   mentors:
     - Minhazul Islam Sk
-  description: "Built internal semantic search engine for customer support agents"
+  description: "Designed and trained transformer-based semantic search document retrieval system to improve efficiency of customer support agents"
   institution-url: https://fb.com
   group-url: https://fb.com/
   type: industry
@@ -38,7 +40,7 @@
   mentors:
     - Anne Cocos
   description: 
-    Built model jointly embed free-text entity mentions with structured entity knowledge graph for 30M research articles/abstracts and KG with 5M edges. Developed end-to-end pipeline to download, preprocess, and identify high-quality entity links for biomedical entities in 30M research articles.  
+    Built model jointly embed free-text entity mentions with structured entity knowledge graph for 30M research articles/abstracts and KG with 5M edges. Developed end-to-end pipeline to download, preprocess, and identify high-quality entity links for biomedical entities in 30M research articles.  Engineered parallel model training workflow on distributed supercomputing cluster utilizing 10,000+ CPU cores and dozens of GPUs.
   institution-url: https://gsk.com
   group-url: https://gsk.com
   type: industry
