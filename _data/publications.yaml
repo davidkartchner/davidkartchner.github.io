@@ -12,11 +12,8 @@
   venue-shorthand: SIGIR
   location: Taipei, Taiwan
   year: 2023
-  icon: 23-biosift.png
   tagline: Document filtering for drug repurposing
-  # pdf: "https://openreview.net/pdf?id=FZDPu3JLEPg"
   url: /papers/biofist
-  # poster: papers/20-regal-poster.pdf
   type: conference
   figure: /images/papers/23-biosift
   feature-title: "BioSift: Document Filtering for Clinical Meta-Analysis"

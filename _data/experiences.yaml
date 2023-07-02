@@ -1,6 +1,7 @@
 - institution: Glassbox Health
   location: Atlanta, GA
-  position: Co-Founder & CTO
+  position: Co-Founder
+  group: "CTO"
   year: Sept 2022 - Present
   description: "Building an LLM-based assistant to provide personalized navigation of medical bills and healthcare costs"
   institution-url: https://glassbox-health.com
