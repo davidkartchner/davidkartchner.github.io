@@ -2,6 +2,7 @@
 layout: cv
 title: Resume
 permalink: resume/
+urlcolor: blue
 jsarr:
 - js/scripts.js
 ---
@@ -100,7 +101,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/award.html award=award %}
 {% endfor %}
 
-## Selected Publications
+## Selected Publications*
 
 {% assign selectedBoolForBibtex = true %}
 
@@ -108,6 +109,22 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% for pub in selected %}
 {% include cv/publication.html pub=pub %}
 {% endfor %}
+
+<div class="cv-blue-link" style="font-weight: 800;">
+  <em style="font-style: italic;">
+    *For all publications, please see <a class="cv-blue-link" href="https://davidkartchner.com/cv">my CV</a>
+  </em>
+</div>
+
+
+
+
+<!-- <div class="cv-blue-link"><a href="https://davidkartchner.com/cv">
+	    my CV
+</a> </div> -->
+
+<!-- **For all publications, please see [<span style="color:blue">my CV</span>](https://davidkartchner.com/cv)** -->
+
 <!-- 
 ### All Publications
 
@@ -148,12 +165,12 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %} -->
 
-### Miscellaneous
+<!-- ### Miscellaneous
 
 {% assign preprint = site.categories.papers | where: 'type', "misc" %}
 {% for pub in preprint %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} -->
 
 
 
