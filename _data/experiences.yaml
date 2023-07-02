@@ -6,6 +6,7 @@
   description: "Building an LLM-based assistant to provide personalized navigation of medical bills and healthcare costs"
   institution-url: https://glassbox-health.com
   type: industry
+  resume: true
 
 - institution: Enveda Biosciences
   location: Boulder, CO
@@ -20,6 +21,7 @@
   institution-url: https://envedabio.com
   group-url: https://envedabio.com/
   type: industry
+  resume: true
 
 - institution: Facebook
   location: Menlo Park, CA
@@ -32,6 +34,7 @@
   institution-url: https://fb.com
   group-url: https://fb.com/
   type: industry
+  resume: true
 
 - institution: GlaxoSmithKline
   location: Philadelphia, PA
@@ -45,6 +48,7 @@
   institution-url: https://gsk.com
   group-url: https://gsk.com
   type: industry
+  resume: true
 
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
@@ -59,6 +63,7 @@
   institution-url: http://gatech.edu
   group-url: https://sites.gatech.edu/cassie-mitchell-lab/
   type: academic
+  resume: true
 
 - institution: Padsplit
   location: "Atlanta, GA"
@@ -69,6 +74,7 @@
   institution-url: https://www.padsplit.com/
   group-url: https://www.padsplit.com/
   type: industry
+  resume: false
 
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
@@ -82,6 +88,7 @@
   institution-url: https://gatech.edu
   group-url: https://cse.gatech.edu
   type: academic
+  resume: true
 
 - institution: Recursion Pharmaceuticals
   location: "Salt Lake City, UT"
@@ -94,6 +101,7 @@
   institution-url: https://recursionphrama.com
   group-url: https://recursionphrama.com
   type: industry
+  resume: true
 
 - institution: Intermountain Healthcare
   location: "Salt Lake City, UT"
@@ -106,6 +114,7 @@
   institution-url: https://intermountainhealthcare.org
   group-url: https://intermountainhealthcare.org
   type: industry
+  resume: true
 
 
 - institution: Brigham Young University
@@ -121,6 +130,7 @@
   institution-url: https://www.byu.edu
   group-url: https://math.byu.edu
   type: academic
+  resume: true
 
 - institution: Brigham Young University
   location: "Provo, UT"
@@ -137,6 +147,8 @@
   institution-url: https://www.byu.edu
   group-url: https://foundations-of-applied-mathematics.github.io/
   type: academic
+  resume: false
+
 
 - institution: Capital One
   location: "McLean, VA"
@@ -147,3 +159,4 @@
   institution-url: https://capitalone.com
   group-url: https://capitalone.com
   type: industry
+  resume: false

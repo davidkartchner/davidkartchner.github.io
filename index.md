@@ -12,7 +12,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research <b><span class="cv-ai">natural language processing</span></b> methods for extracting and synthesizing information from biomedical text to power applications in <b><span class="cv-vis">biomedicine</span></b>, <b><span class="cv-vis">drug discovery</span></b> and <b><span class="cv-vis">healthcare</span></b>.  My research at Georgia Tech focuses on <b><span class="cv-ai">active, weakly-supervised, and semi-supervised learning</span></b> methods for text mining and information extraction with limited to no labeled data.
+		I research <b><span class="cv-ai">natural language processing</span></b> methods for extracting and synthesizing information from biomedical text to power applications in <b><span class="cv-vis">biomedicine</span></b>, <b><span class="cv-vis">drug discovery</span></b> and <b><span class="cv-vis">healthcare</span></b>.  My research at Georgia Tech focuses on <b><span class="cv-ai">semi-supervised learning</span></b> and <b><span class="cv-ai">large language models (LLMs)</span></b> text mining and information extraction with limited to no labeled data.
 		<!-- I research how to enable <b><span class="cv-ai">natural language processing</span></b> on new and dynamic problems by developing ai-driven models for scalable data labeling powered by active learning and weak supervision. I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology and improve care delivery.   -->
 	</div>
 	<div style="height: 1rem"></div>
@@ -33,7 +33,7 @@ title: Home
 </div>
 
 <div class="intro-right">
-	<img id="intro-image" class="intro-right" src="/images/portrait.png">
+	<img id="intro-image" class="intro-right" src="/images/portrait_2023.jpeg">
 	<div style="height: 0.5rem"></div>
 	<div id="intro-image-links" class="intro-right">
 		{% for link in site.data.social-links %}

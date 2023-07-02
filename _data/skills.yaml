@@ -4,14 +4,8 @@
 #     - Ubuntu
 #     - Unix Command Line
 #     - Windows
-- name: Mathematics & Theory
+- name: Mathematics
   items:
-    - Natural Language Processing (NLP)
-    - Large Language Models (LLMs)
-    - Machine Learning
-    - Deep Learning
-    - Bayesian Statistics
-    - Computer Vision
     - Matrix Analysis
     - Complex Analysis
     - Functional Analysis
@@ -25,9 +19,21 @@
     - Advanced Econometrics
     - Abstract Algegra
     - Differential Equations
-    - Information Retrieval
+    
 
 - name: Machine Learning
+  items:
+  - Natural Language Processing (NLP)
+  - Large Language Models (LLMs)
+  - Knowledge Graphs
+  - Deep Learning
+  - Bayesian Statistics
+  - Computer Vision
+  - Semi-Supervised Learning
+  - Weak Supervision
+  - Information Retrieval
+
+- name: Packages
   items: 
     - Pytorch
     - Pandas
@@ -64,18 +70,9 @@
   - Bokeh
   - Draw.io 
   
-
 - name: Languages
   items: 
     - English (Native)
     - Tagalog (Professional)
     - Spanish (Intermediate)
     - German (Intermediate)
-
-# - name: HCI
-#   items:
-#   - Contextual Inquiry
-#   - Think-Alouds
-#   - User Personas
-#   - Rapid Paper Prototyping
-#   - Affinity Diagraming

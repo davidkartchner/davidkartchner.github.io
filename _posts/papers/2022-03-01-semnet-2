@@ -22,6 +22,7 @@ url: /papers/semnet2
 figure: /papers/semnet2.png
 type: journal
 doi: "10.3390/bdcc6010027"
+selected: true
 bibtex: |-
 
     @article{kirkpatrick2022optimizations,

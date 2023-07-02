@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: CV
-permalink: cv/
+title: Resume
+permalink: resume/
 jsarr:
 - js/scripts.js
 ---
@@ -28,7 +28,7 @@ jsarr:
 </div> -->
 
 <div>
-I research how to enable <b><span class="cv-ai">natural language processing</span></b> (NLP) on new and dynamic problems by developing generative means of structuring data via  <b><span class="cv-ai">large language models (LLMs)</span></b> and <b><span class="cv-ai">knowledge graphs (KGs)</span></b>.  I use these technologies to structure <b><span class="cv-vis">clinical data</span></b>  and <b><span class="cv-vis">biomedical research</span></b> , enabling clinicians to customizably curate structured data from any unstructured text.
+I research how to enable <b><span class="cv-ai">natural language processing</span></b> (NLP) on new and dynamic problems by developing generative means of structuring data via  <b><span class="cv-ai">large language models (LLMs)</span></b> and <b><span class="cv-ai">knowledge graphs</span></b>.  I use these technologies to structure <b><span class="cv-vis">clinical data</span></b>  and <b><span class="cv-vis">biomedical research</span></b> , enabling clinicians to customizably curate structured data from any unstructured text.
 
 <!-- I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology by . -->
 </div>
@@ -78,7 +78,9 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
+{% if experience.resume %}
 {% include cv/experience.html experience=experience %}
+{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -86,7 +88,9 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'academic' %}
+{% if experience.resume %}
 {% include cv/experience.html experience=experience %}
+{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -96,9 +100,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/award.html award=award %}
 {% endfor %}
 
-## Publications
-
-### Selected Publications
+## Selected Publications
 
 {% assign selectedBoolForBibtex = true %}
 
@@ -106,7 +108,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% for pub in selected %}
 {% include cv/publication.html pub=pub %}
 {% endfor %}
-
+<!-- 
 ### All Publications
 
 {% assign selectedBoolForBibtex = false %}
@@ -155,6 +157,8 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 
 
+
+<!-- 
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
@@ -180,14 +184,16 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% for mentee in site.data.mentoring %}
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
-{:/}
+{:/} -->
 
 
 ## Volunteer & Leadership Experience
 
-<div class="cv-service-title"><b>Community Outreach</b></div>
+<!-- <div class="cv-service-title"><b>Community Outreach</b></div> -->
 {% for volunteer in site.data.volunteer %}
+{% if volunteer.resume == true %}
 {% include cv/volunteer.html volunteer=volunteer %}
+{% endif %}
 {% endfor %}    
 
 <!-- <div class="cv-service-title"><b>Organizer</b></div>
@@ -200,12 +206,12 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/venue.html venue=venue %}
 {% endfor %} -->
 
-<div class="cv-service-title"><b>Reviewer</b></div>
+<!-- <div class="cv-service-title"><b>Reviewer</b></div>
 {% for venue in site.data.reviewer %}
 {% include cv/venue.html venue=venue %}
-{% endfor %}  
+{% endfor %}  -->
 
-<div class="cv-service-title"><b>Institutional</b></div>
+<!-- <div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}
 {% include cv/institutional.html institution=institution %}
 {% endfor %}
@@ -213,7 +219,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 <div class="cv-service-title"><b>Member</b></div>
 {% for member in site.data.memberships %}
 {% include cv/member.html member=member %}
-{% endfor %}
+{% endfor %} -->
 
 
 ## Technical Skills
