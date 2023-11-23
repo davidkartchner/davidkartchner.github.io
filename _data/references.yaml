@@ -8,9 +8,9 @@
   url: "https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell"
 
 - name: Jeff Humpherys
-  position: Professor
-  group: School of Medicine
-  institution: University of Utah
+  position: Chief Data Scientist
+  # group: School of Medicine
+  institution: Harbor Health
   location: Salt Lake City, UT, USA
   phd: true
   website: "linkedin.com/in/jhumpherys/"
