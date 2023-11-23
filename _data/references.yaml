@@ -1,5 +1,5 @@
 - name: Cassie Mitchell
-  position: Assistant Professor
+  position: Associate Professor
   group: School of Biomedical Engineering
   institution: Georgia Institute of Technology
   location: Atlanta, GA, USA
@@ -42,3 +42,22 @@
   phd: true
   website: "linkedin.com/in/david-healey-a0a8143/"
   url: "https://www.linkedin.com/in/david-healey-a0a8143/"
+
+- name: Chao Zhang
+  position: Assistant Professor
+  group: School of Computational Science and Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "http://chaozhang.org/"
+  url: "http://chaozhang.org/"
+
+- name: Jon Duke
+  position: Principal Research Scientist
+  group: Georgia Tech Research Institute
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "https://research.gatech.edu/jon-duke-0"
+  url: "https://research.gatech.edu/jon-duke-0"
+  
