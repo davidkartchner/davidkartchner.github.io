@@ -1,23 +1,41 @@
+# - name: Albert Lee
+#   year: "Spring 2023"
+#   degree: "Ph.D. in Machine Learning, Georgia Institute of Technology"
+#   description: "Hierarchical biomedical entity linking"
+#   url: https://www.linkedin.com/in/albert-lee-79219a128/
+
+- name: Rushda Umrani
+  year: "Fall 2023"
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Automating clinical data extraction with LLMs"
+  url: https://www.linkedin.com/in/rushda-umrani/
+
+- name: Anubha Majahan
+  year: "Fall 2023"
+  degree: "B.S. in Computer Science, Georgia Institute of Technology"
+  description: "Automating clinical meta-analysis with LLMs"
+  url: https://www.linkedin.com/in/anubha-mahajan-570035227/
+
 - name: Jennifer Deng
   year: "Fall 2022 - Present"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
-  description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
+  description: "Entity linking for automated knowledge graph construction; automating clinical data extraction and meta-analysis with LLMs; weakly supervised document classification and filtering"
   url: https://www.linkedin.com/in/jennifer-deng-316359185/
 
 - name: Shubham Lohiya
-  year: "Fall 2022 - Present"
+  year: "Fall 2022 - Spring 2023"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/lohiya-shubham/
 
 - name: Prasanth Bathala
-  year: "Spring 2022 - Present"
+  year: "Spring 2022 - Summer 2023"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/b-prasanth/
 
 - name: Zihan Wei
-  year: "Fall 2022 - Present"
+  year: "Fall 2022 - Spring 2023"
   degree: "M.S. in Biomedical Engineering, Georgia Institute of Technology"
   description: "Automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/zihanwei99/
@@ -36,13 +54,13 @@
 
 
 - name: Haydn Turner
-  year: "Fall 2021 - Present"
+  year: "Fall 2021 - Fall 2023"
   degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
   description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
   url: https://www.linkedin.com/in/haydn-turner-5506a2234/
 
 - name: Dongyu Zhang
-  year: "Spring 2022 - Present"
+  year: "Spring 2022 - Fall 2022"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
 

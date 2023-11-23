@@ -1,3 +1,87 @@
+- id: bioel-survey
+  title: "A Comprehensive Evaluation of Biomedical Entity Linking Models"
+  authors:
+    - David Kartchner
+    - Jennifer Deng
+    - Shubham Lohiya
+    - Tejasri Kopparthi
+    - Prasanth Bathala
+    - Daniel Domingo-Fernández
+    - Cassie Mitchell
+  venue: "The 2023 Conference on Empirical Methods in Natural Language Processing"
+  venue-shorthand: EMNLP
+  location: Singapore
+  year: 2023
+  icon: images/papers/23-bioel-survey.png
+  tagline: Robust Biomedical Entity Linking
+  pdf: "/papers/23-bioel-survey.pdf"
+  url: /papers/bioel-survey
+  # poster: papers/20-regal-poster.pdf
+  type: conference
+  figure: /images/papers/23-bioel-survey.png
+  feature-title: "Biomedical Entity Linking Survey"
+  feature-description: A comprehensive survey and robustness analysis of biomedical entity linking models for scientific literature
+  feature-order: 1
+  featured: true
+  selected: true
+  image: /images/papers/23-bioel-survey.png
+  bibtex: |-
+
+    @inproceedings{
+      kartchner2023bioel,
+      title={A Comprehensive Evaluation of Biomedical Entity Linking Models},
+      author={Kartchner, David and Deng, Jennifer and Lohiya, Shubham and Kopparthi, Tejasri and Bathala, Prasanth and Domingo-Fern\'andez, Daniel and Mitchell, Cassie S},
+      booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+      year={2023},
+      url={https://openreview.net/forum?id=5Ob6DsDv2V}
+    }
+
+
+- id: covid-cvd
+  title: "Literature-Based Discovery to Elucidate the Biological Links between Resistant Hypertension and COVID-19"
+  authors:
+    - David Kartchner
+    - Kevin McCoy
+    - Janhvi Dubey
+    - Dongyu Zhang
+    - Kevin Zheng
+    - Rushda Umrani
+    - James Kim
+    - Cassie Mitchell
+  venue: "Biology"
+  venue-shorthand: Biology
+  # location: Singapore
+  year: 2023
+  icon: images/papers/23-covid-cvd.png
+  tagline: Using NLP to illuminate cardiovascular complications of COVID-19
+  pdf: "/papers/23-covid-cvd.pdf"
+  url: /papers/covid-cvd
+  # poster: papers/20-regal-poster.pdf
+  type: conference
+  figure: /images/papers/23-covid-cvd.png
+  feature-title: "Text Mining for COVID-19 and Resistant Hypertension"
+  feature-description: Illuminating the biological mechanisms linking COVID-19 to Resistant Hypertension with NLP
+  feature-order: 2
+  featured: true
+  selected: true
+  image: /images/papers/23-covid-cvd.png
+  bibtex: |-
+
+    @article{kartchner2023cvd, 
+      title={Literature-Based Discovery to Elucidate the Biological Links between Resistant Hypertension and COVID-19}, 
+      volume={12}, 
+      ISSN={2079-7737}, 
+      url={http://dx.doi.org/10.3390/biology12091269}, 
+      DOI={10.3390/biology12091269}, 
+      number={9}, 
+      journal={Biology}, 
+      publisher={MDPI AG}, 
+      author={Kartchner, David and McCoy, Kevin and Dubey, Janhvi and Zhang, Dongyu and Zheng, Kevin and Umrani, Rushda and Kim, James J. and Mitchell, Cassie S.}, 
+      year={2023}, 
+      month={Sep}, 
+      pages={1269} 
+    }
+
 - id: biosift
   title: "BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis"
   authors:
@@ -18,8 +102,8 @@
   figure: /images/papers/23-biosift
   feature-title: "BioSift: Document Filtering for Clinical Meta-Analysis"
   feature-description: A dataset to filter clinical cohort studies for drug repurposing, pharmacovigilence, and clinical meta-ananalysis
-  feature-order: 2
-  featured: True
+  feature-order: 4
+  featured: true
   selected: true
   image: /images/featured/23-biosift.png
   bibtex: |-
@@ -53,8 +137,8 @@
   figure: /images/papers/23-biosift
   feature-title: "Clinical Meta Analysis with LLMs"
   feature-description: A comparison of the capacity of various LLMs to structure & summarize data from clinical trials and cohort studies
-  feature-order: 1
-  featured: True
+  feature-order: 3
+  featured: true
   selected: true
   image: /images/featured/23-biosift.png
   bibtex: |-
@@ -131,7 +215,7 @@
   figure: /images/papers/20-regal.png
   feature-title: "REGAL: Interactive Weak Supervision"
   feature-description: An AI-assisted interactive tool for creating labeling functions used in weak supervision.
-  feature-order: 3
+  feature-order: 5
   featured: true
   selected: true
   image: /images/featured/20-regal.png
@@ -236,8 +320,8 @@
   doi: "10.1164/rccm.201709-1883OC"
   feature-title: Air Pollution and Acute Lower Respiratory Infection
   feature-description: An epidemiological study on how air polution -- particularly PM 2.5 -- increases the risk of acute lower respiratory infection.
-  feature-order: 4
-  featured: true
+  # feature-order: 4
+  # featured: true
   selected: true
   image: /images/featured/18-alri.png
   bibtex: |-
@@ -349,9 +433,9 @@
   type: journal
   feature-title: "Biomedical Link Prediction for COVID-19"
   feature-description: A knowledge graph link prediction tool to be used for prediction of novel drugs for COVID-19
-  feature-order: 3
-  featured: true
-  selected: true
+  # feature-order: 3
+  featured: false
+  selected: false
   image: /images/featured/21-covid.png
   bibtex: |-
 
