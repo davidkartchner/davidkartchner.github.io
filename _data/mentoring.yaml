@@ -1,8 +1,14 @@
-# - name: Albert Lee
-#   year: "Spring 2023"
-#   degree: "Ph.D. in Machine Learning, Georgia Institute of Technology"
-#   description: "Hierarchical biomedical entity linking"
-#   url: https://www.linkedin.com/in/albert-lee-79219a128/
+- name: Christophe Ye
+  year: "Dec 2023 - Present"
+  degree: "Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology"
+  description: "Biomedical entity linking with global, cross-domain context"
+  url: https://www.linkedin.com/in/christophe-ye-b84038175/
+
+- name: Batuan Nursal
+  year: "Dec 2023 - Present"
+  degree: "Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology"
+  description: "Biomedical entity linking with global, cross-domain context"
+  url: https://www.linkedin.com/in/batuhan-nursal-331b81251/
 
 - name: Rushda Umrani
   year: "Fall 2023"
@@ -113,6 +119,16 @@
   now-institution: Huxley Medical
   # now-institution-url: https://www.moles.washington.edu/
   url: https://www.linkedin.com/in/alexis-nunn/
+
+- name: Sri Vivek Vanga
+  year: "Spring - Summer 2020"
+  degree: "M.S. in Computer Science, Georgia Institute of Technology"
+  description: "Building a knowledge graph for COVID-19"
+  now-position: Senior Software Engineer
+  now-institution: Meta
+  now-institution-url: https://www.meta.com/
+  url: https://www.linkedin.com/in/sri-vivek-v-8b38a145/
+
 
 
 
