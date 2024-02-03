@@ -1,3 +1,28 @@
+- name: Courtney Curtis
+  year: "Spring 2024"
+  degree: "B.S. Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automated clinical meta analysis using natural language processing"
+
+- name: Coral Jackson
+  year: "Spring 2024"
+  degree: "B.S. Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automated clinical meta analysis using natural language processing"
+
+- name: Eva Duvaris
+  year: "Spring 2024"
+  degree: "B.S. Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automated clinical meta analysis using natural language processing"
+
+- name: Sarah Tan
+  year: "Spring 2024"
+  degree: "B.S. Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automated clinical meta analysis using natural language processing"
+
+- name: Hannah Cho
+  year: "Spring 2024"
+  degree: "B.S. Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automated clinical meta analysis using natural language processing"
+
 - name: Christophe Ye
   year: "Dec 2023 - Present"
   degree: "Ph.D. in Electrical and Computer Engineering, Georgia Institute of Technology"
@@ -11,13 +36,13 @@
   url: https://www.linkedin.com/in/batuhan-nursal-331b81251/
 
 - name: Rushda Umrani
-  year: "Fall 2023"
+  year: "Fall 2023 - Present"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/rushda-umrani/
 
 - name: Anubha Majahan
-  year: "Fall 2023"
+  year: "Fall 2023 - Present"
   degree: "B.S. in Computer Science, Georgia Institute of Technology"
   description: "Automating clinical meta-analysis with LLMs"
   url: https://www.linkedin.com/in/anubha-mahajan-570035227/
@@ -29,16 +54,22 @@
   url: https://www.linkedin.com/in/jennifer-deng-316359185/
 
 - name: Shubham Lohiya
-  year: "Fall 2022 - Spring 2023"
+  year: "Fall 2022 - Present"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/lohiya-shubham/
 
 - name: Prasanth Bathala
-  year: "Spring 2022 - Summer 2023"
+  year: "Spring 2022 - Present"
   degree: "M.S. in Computer Science, Georgia Institute of Technology"
   description: "Entity linking for automated knowledge graph construction; automating clinical data extraction with LLMs"
   url: https://www.linkedin.com/in/b-prasanth/
+
+- name: Haydn Turner
+  year: "Fall 2021 - Fall 2023"
+  degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
+  description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
+  url: https://www.linkedin.com/in/haydn-turner-5506a2234/
 
 - name: Zihan Wei
   year: "Fall 2022 - Spring 2023"
@@ -58,12 +89,6 @@
   description: "Discovering causes of COVID-19 induced cardiovascular complications via text mining and knowldge graph analysis"
   url: https://www.linkedin.com/in/janhvi-dubey/
 
-
-- name: Haydn Turner
-  year: "Fall 2021 - Fall 2023"
-  degree: "B.S. in Biomedical Engineering, Georgia Institute of Technology"
-  description: "Automating biomedical meta-analysis via human-in-the-loop natural language processing"
-  url: https://www.linkedin.com/in/haydn-turner-5506a2234/
 
 - name: Dongyu Zhang
   year: "Spring 2022 - Fall 2022"
