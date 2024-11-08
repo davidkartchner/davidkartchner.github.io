@@ -1,9 +1,24 @@
+- institution: Truveta
+  location: Bellevue, WA
+  position: Machine Learning Researcher
+  group: Clinical LLMs
+  year: March 2024 - Present
+  description: "Training agent-based LLM systems to perform end-to-end medical research with real-world data.  Designed and implemented LLM evaluation suite  automatically evaluate the quality of LLM outputs.  Designed multi-agent LLM systems to automatically identify and correct erroneous training data.  Current projects are focused on automatically evaluating LLM performance on medical tasks and using LLMs to systematically probe for areas of model weakness"
+  type: industry
+  mentors:
+    - Mehraveh Salehi
+    - Saman Zarandioon
+  institution-url: https://truveta.com
+  resume: true
+
 - institution: Georgia Institute of Technology
-  location: Atlanta, GA"
+  location: Atlanta, GA
   position: Postdoctoral Researcher
   group: Laboratory for Pathology Dynamics
-  year: Jan 2024 - Present
-  description: "Natural language processing tools for the indexing, extraction, and synthesis of clinical knowledge from medical literature"
+  year: Jan 2024 - March 2024
+  mentors: 
+    - Cassie Mitchell
+  description: "Trained LLMs to index, extract, and synthesize clinical knowledge from medical literature"
   type: academic
   institution-url: https://gatech.edu
   resume: true
@@ -13,7 +28,7 @@
   position: Co-Founder
   group: "CTO"
   year: Sept 2022 - Present
-  description: "Building an LLM-based assistant to provide personalized navigation of medical bills and healthcare costs"
+  description: "Built an LLM-based assistant to provide personalized navigation of medical bills and healthcare costs.  Our service reduced medical bills by 67% on average across all uses."
   institution-url: https://glassbox.health
   type: industry
   resume: true
@@ -40,7 +55,7 @@
   year: Summer 2021
   mentors:
     - Minhazul Islam Sk
-  description: "Designed and trained transformer-based semantic search document retrieval system to improve efficiency of customer support agents"
+  description: "Designed and trained transformer-based semantic search document retrieval and ranking system to improve efficiency of customer support agents"
   institution-url: https://fb.com
   group-url: https://fb.com/
   type: industry
@@ -69,7 +84,8 @@
   mentors: 
     - Cassie Mitchell
   advisor: true
-  description: "Member of the Laboratory of Pathology Dynamics where we use machine learning to build tools that identify and prioritize cures and optimize care for neurodegenerative diseases."
+  description: 
+    Designed NLP-based machine learning systems for automated discovery of high-value biological hypotheses via knowledge graph construction and inference.  Further developed systems for identifying, extracting, and synthesizing relevant data from biomedical literature to quantatitively validate medical hypotheses via AI-driven meta analysis.  Publications featured in NeurIPS, ACL, EMNLP, and SIGIR.
   institution-url: http://gatech.edu
   group-url: https://sites.gatech.edu/cassie-mitchell-lab/
   type: academic
