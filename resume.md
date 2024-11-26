@@ -9,7 +9,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">David Kartchner</a></h1>
 
-<p id="cv-subtitle"><i>Researcher + Entrepreneur (<span class="cv-ai">ML</span> + <span class="cv-vis">Biomedicine</span>)</i></p>
+<p id="cv-subtitle"><i>Researcher + Entrepreneur (<span class="cv-ai">ML</span> + <span class="cv-vis">Healthcare``</span>)</i></p>
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">
@@ -29,16 +29,16 @@ jsarr:
 </div> -->
 
 <div>
-I research how to enable <b><span class="cv-ai">natural language processing</span></b> (NLP) on new and dynamic problems by developing generative means of structuring data via  <b><span class="cv-ai">large language models (LLMs)</span></b> and <b><span class="cv-ai">knowledge graphs</span></b>.  I use these technologies to structure <b><span class="cv-vis">clinical data</span></b>  and <b><span class="cv-vis">biomedical research</span></b> , enabling clinicians to customizably curate structured data from any unstructured text.
+I develop <b><span class="cv-ai">large language models</span></b> for clinical applications, particularly focused on building AI that can generate rigorous medical insights from real-world data.  I combine <b><span class="cv-ai">knowledge graphs</span></b> and <b><span class="cv-ai">large language models</span></b> to generate hypotheses, and extract structured <b><span class="cv-vis">clinical data</span></b> to evaluate them. 
 
 <!-- I apply these technologies to  <b><span class="cv-vis">healthcare</span></b> and <b><span class="cv-vis">biomedicine</span></b> to enable clinical researchers to better understand disease etiology by . -->
 </div>
 
-<div class="cv-spacer"></div>
+<!-- <div class="cv-spacer"></div>
 
 <div>
 I have collaborated with researchers, developers, and clinicians while working at Enveda Biosciences, Facebook, GSK, Recursion Pharmaceuticals, and Intermountain Healthcare.
-</div>
+</div> -->
 
 <!-- <div class="cv-spacer"></div>
 
@@ -67,14 +67,6 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 ***
 
-## Education
-
-{::nomarkdown}
-{% for degree in site.data.education %}
-{% include cv/degree.html degree=degree %}
-{% endfor %}
-{:/}
-
 ## Industry Experience
 
 {% for experience in site.data.experiences %}
@@ -85,7 +77,17 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endif %}
 {% endfor %}
 
-## Academic Research Experience
+## Education
+
+{::nomarkdown}
+{% for degree in site.data.education %}
+{% include cv/degree.html degree=degree %}
+{% endfor %}
+{:/}
+
+
+
+<!-- ## Academic Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'academic' %}
@@ -93,7 +95,7 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 
 ## Honors and Awards
 
@@ -251,11 +253,11 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% include cv/design.html design=design %}
 {% endfor %} -->
 
-## References
+<!-- ## References
 
 {% for reference in site.data.references %}
 {% include cv/reference.html reference=reference %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- 
 ## Contact
