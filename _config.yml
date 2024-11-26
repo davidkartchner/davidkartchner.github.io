@@ -1,5 +1,5 @@
 title: David Kartchner
-tagline: PhD Student and Entrpereneur
+tagline: Health AI Researcher and Entrpereneur
 url: http://davidkartchner.com
 baseurl: ""
 # gems: [jekyll-paginate]
@@ -16,7 +16,7 @@ sass:
 author:
   name: David Kartchner
   url: http://davidkartchner.com
-  email: david.kartchner@gatech.edu
+  email: davidkartchner@gmail.com
 
 markdown: kramdown
 highlighter: rouge
