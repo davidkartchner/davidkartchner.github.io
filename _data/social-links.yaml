@@ -7,10 +7,10 @@
   cv-group: 1
 
 - id: email
-  description: "david.kartchner@gatech.edu"
+  description: "davidkartchner@gmail.com"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:david.kartchner@gatech.edu"
+  url: "mailto:davidkartchner@gmail.com"
   on-homepage: true
   cv-group: 1
 
