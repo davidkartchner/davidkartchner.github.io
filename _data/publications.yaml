@@ -381,11 +381,11 @@
 - id: disease-prediction
   title: "Machine Learning Methods for Diease Prediction with Claims Data"
   authors:
+    - David Kartchner
     - Tanner Christensen
     - Abraham Frandsen
     - Seth Glazier
     - Jeff Humpherys
-    - David Kartchner
   venue: "IEEE International Conference on Healthcare Informatics"
   venue-shorthand: ICHI
   location: New York City, NY, USA
