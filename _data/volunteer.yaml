@@ -1,10 +1,26 @@
 - institution: Church of Jesus Christ of Latter-day Saints
+  position: Community Service Coordinator
+  location: Kirkland, WA
+  year: 2024 - Present
+  description: "Coordinate local service projects for community members with health challenges and impaired mobility.  Service included organizing response to Nov. 2024 bomb cyclone that left 600k+ individuals without power."
+  institution-url: http://churchofjesuschrist.org
+  resume: false
+
+- institution: Church of Jesus Christ of Latter-day Saints
+  position: Disaster Response Volunteer
+  location: Various locations
+  year: 2018 - 2023
+  description: "Volunteer to clear debris and repair home damage caused by hurricanes in southeastern United States."
+  institution-url: http://churchofjesuschrist.org
+  resume: false
+
+- institution: Church of Jesus Christ of Latter-day Saints
   position: Youth Mentor
   location: "Atlanta, GA"
   year: 2019 - 2022
   description: "Organize community service projects and teach leadership & life skills to youth ages 8-17"
   institution-url: http://churchofjesuschrist.org
-  resume: false
+  resume: True
 
 - institution: Catholic Charities Atlanta
   position: English Teacher
@@ -12,7 +28,7 @@
   year: Fall 2019
   description: "Taught semester-long English as a second language course for immigrants to United States"
   institution-url: http://catholiccharitiesatlanta.org
-  resume: false
+  resume: True
 
 - institution: Provo Youth Mentoring
   position: Youth Mentor
@@ -24,6 +40,13 @@
   institution-url: https://yserve.byu.edu/ProvoYouthMentoring
   resume: false
 
+- institution: Brigham Young University
+  position: Volunteer Translator
+  location: "Provo, UT"
+  year: 2015-2018
+  description: "Provided occasional translation services to Tagalog-speaking visitors to BYU.  Translation servies provided for visiting dignitaries at international Law and Religion symposium and Filipino missionaries receiving training prior to full-time service."
+  institution-url: https://cpms.byu.edu/
+  resume: true
 
 - institution: College of Physical and Mathematical Sciences, Brigham Young University
   position: Student Alumni Relations Representative 
@@ -58,12 +81,4 @@
   year: 2009 - 2010
   description: Assisted with local community outreach events including food drives, civil rights benefits fundraiser, and community health fair.
   institution-url: http://murrayyouthexcel.com/
-  resume: false
-
-- institution: Church of Jesus Christ of Latter-day Saints
-  position: Youth Leader
-  location: "Atlanta, GA"
-  year: August 2019 - December 2021
-  description: "Organize community service projects and teach leadership & life skills to youth ages 8-17"
-  institution-url: http://churchofjesuschrist.org
   resume: false

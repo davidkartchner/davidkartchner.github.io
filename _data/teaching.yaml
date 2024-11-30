@@ -39,6 +39,15 @@
   ta: true
 
 - institution: Brigham Young University
+  position: Invited Lecturer
+  location: "Provo, UT"
+  year: Summer 2017
+  class: "Mathematical Foundations of Machine Learning Bootcamp"
+  description: "Taugh lectures on Markov Chain Monte Carlo (MCMC) to group of visiting scholars and professionals from the Philippines"
+  institution-url: http://byu.edu
+  ta: false
+
+- institution: Brigham Young University
   position: Graduate Teaching Assistant
   location: "Provo, UT"
   year: Spring 2017

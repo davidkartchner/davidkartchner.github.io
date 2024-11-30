@@ -82,6 +82,47 @@
       pages={1269} 
     }
 
+
+- id: trialsieve
+  title: "TrialSieve: An Information Extraction Dataset for Automating Clinical Meta Analysis"
+  authors:
+      - David Kartchner
+      - Haydn Turner
+      - Christophe Ye
+      - Irfan Al-Hussaini
+      - Jennifer Deng
+      - Shubham Lohiya
+      - Prasanth Bathala
+      - Courtney Curtis
+      - Eva Duvaris
+      - Coral Jackson
+      - Sarah Tan
+      - Hannah Cho
+      - Cassie Mitchell
+  # venue: "In Progress"
+  # venue-shorthand: SIGIR
+  # location: Taipei, Taiwan
+  year: In progress
+  tagline: Automated meta-analysis for pharmacovigilance
+  url: /papers/trialsieve
+  type: misc
+  # figure: /images/papers/23-biosift
+  feature-title: "TrialSieve: Towards automated clinical meta-analysis"
+  feature-description: A dataset to extract quantitative results from clinical research articles
+  # feature-order: 4
+  # featured: true
+  # selected: true
+  # image: /images/featured/23-biosift.png
+  # bibtex: |-
+
+  #   @inproceedings{kartchner2023biosift,
+  #       author    = {Kartchner, David and Al-Hussaini, Irfan and Turner, Haydn and Deng, Jennifer and Lohiya, Shugham and Bathala, Prasanth and Mitchell, Cassie},
+  #       title     = {BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis},
+  #       year      = {2023},
+  #       maintitle = {SIGIR},
+  #       booktitle = {46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  #   }
+
 - id: biosift
   title: "BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis"
   authors:
@@ -97,7 +138,7 @@
   location: Taipei, Taiwan
   year: 2023
   tagline: Document filtering for drug repurposing
-  url: /papers/biofist
+  url: /papers/biosift
   type: conference
   figure: /images/papers/23-biosift
   feature-title: "BioSift: Document Filtering for Clinical Meta-Analysis"

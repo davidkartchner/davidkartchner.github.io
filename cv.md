@@ -90,6 +90,12 @@ My research is supported by a NASA Space Technology Research Fellowship.
 {% endif %}
 {% endfor %}
 
+## Teaching
+
+{% for teach in site.data.teaching %}
+{% include cv/teaching.html teach=teach %}
+{% endfor %}
+
 ## Honors and Awards
 
 {% for award in site.data.awards %}
@@ -166,12 +172,6 @@ My research is supported by a NASA Space Technology Research Fellowship.
 
 {% for press in site.data.press %}
 {% include cv/press.html press=press %}
-{% endfor %}
-
-## Teaching
-
-{% for teach in site.data.teaching %}
-{% include cv/teaching.html teach=teach %}
 {% endfor %}
 
 ## Mentoring

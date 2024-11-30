@@ -100,7 +100,7 @@
   institution-url: https://www.padsplit.com/
   group-url: https://www.padsplit.com/
   type: industry
-  resume: false
+  resume: true
 
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
@@ -115,6 +115,17 @@
   group-url: https://cse.gatech.edu
   type: academic
   resume: true
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Teaching Assistant
+  group: School of Computational Science and Engineering
+  year: "Summer 2019; Fall 2022"
+  description: "Teaching assistant for machine learning and intro to graduate computing courses"
+  institution-url: https://gatech.edu
+  group-url: https://cse.gatech.edu
+  type: academic
+  resume: false
 
 - institution: Recursion Pharmaceuticals
   location: "Salt Lake City, UT"
@@ -148,7 +159,6 @@
   position: Graduate Research Assistant
   group: Department of Mathematics
   year: "Jan 2017 - Aug 2018"
-  year-extra: "Jan. 2013"
   mentors:
     - Jeffrey Humpherys
   advisor: true
@@ -158,22 +168,22 @@
   type: academic
   resume: true
 
-- institution: Brigham Young University
-  location: "Provo, UT"
-  position: Teaching Assistant & Lab Instructor
-  group: Department of Mathematics
-  year: Jun 2014 - Apr 2018
-  mentors:
-    - Tyler Jarvis (primary)
-    - Brigham Frandsen
-    - David Sims
-    - Joseph Price
-    - Stephen Humpheries
-  description: "Taught year-long, weekly programming lab on data analysis and intensive summer bootcamp on Markov Chain Monte Carlo (MCMC).  Developed machine learning curriculum and automated grading software.  Additionally taught recitations for abstrat algebra, econometrics, statistics, and microeconomics."
-  institution-url: https://www.byu.edu
-  group-url: https://foundations-of-applied-mathematics.github.io/
-  type: academic
-  resume: false
+# - institution: Brigham Young University
+#   location: "Provo, UT"
+#   position: Teaching Assistant & Lab Instructor
+#   group: Department of Mathematics
+#   year: Jun 2014 - Apr 2018
+#   mentors:
+#     - Tyler Jarvis (primary)
+#     - Brigham Frandsen
+#     - David Sims
+#     - Joseph Price
+#     - Stephen Humpheries
+#   description: "Taught year-long, weekly programming lab on data analysis and intensive summer bootcamp on Markov Chain Monte Carlo (MCMC).  Developed machine learning curriculum and automated grading software.  Additionally taught recitations for abstrat algebra, econometrics, statistics, and microeconomics."
+#   institution-url: https://www.byu.edu
+#   group-url: https://foundations-of-applied-mathematics.github.io/
+#   type: academic
+#   resume: false
 
 
 - institution: Capital One
