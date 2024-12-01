@@ -23,27 +23,20 @@ venue: Preprint
 # venue-shorthand: SIGIR
 # location: Taipei, Taiwan
 year: 2024
-# icon: 23-biosift.png
+# icon:
 tagline: Automated meta-analysis of clinical literature
 # pdf: "https://openreview.net/pdf?id=FZDPu3JLEPg"
 url: /papers/trialsieve
-# poster: papers/20-regal-poster.pdf
+# poster: papers/
 type: misc
-# figure: /images/papers/23-biosift
+# figure: /images/papers/
 feature-title: "TrialSieve: Towards automated clinical meta-analysis"
 feature-description: A dataset to extract quantitative results from clinical research articles
 # feature-order: 
 # featured: 
 # selected: 
 # image: /images/papers/
-# bibtex: |-
-
-#   @inproceedings{kartchner2023biosift,
-#     author  = {Kartchner, David and Al-Hussaini, Irfan and Turner, Haydn and Deng, Jennifer and Lohiya, Shugham and Bathala, Prasanth and Mitchell, Cassie},
-#     title   = {BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis},
-#     year    = {2023},
-#     maintitle = {SIGIR},
-#     booktitle = {46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+# bibtex: 
 #     }
 ---
 

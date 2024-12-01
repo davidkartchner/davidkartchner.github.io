@@ -20,7 +20,7 @@ pdf: "/papers/23-gpt-metaanalysis.pdf"
 url: /papers/gpt-meta-analysis-workshop
 # poster: papers/20-regal-poster.pdf
 type: workshop
-figure: /images/papers/23-biosift
+figure: /images/papers/23-gpt-meta-analysis
 feature-title: "Clinical Meta Analysis with LLMs"
 feature-description: A comparison of the capacity of various LLMs to structure & summarize data from clinical trials and cohort studies
 feature-order: 1
