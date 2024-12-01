@@ -20,22 +20,21 @@ title: "TrialSieve: An Information Extraction Dataset for Automating Clinical Me
       - Hannah Cho
       - Cassie Mitchell
 venue: Preprint
-# venue-shorthand: SIGIR
-# location: Taipei, Taiwan
+venue-shorthand: Preprint
+location: ""
 year: 2024
 # icon:
 tagline: Automated meta-analysis of clinical literature
-# pdf: "https://openreview.net/pdf?id=FZDPu3JLEPg"
 url: /papers/trialsieve
-# poster: papers/
 type: misc
-# figure: /images/papers/
+figure: /images/papers/trialsieve.jpg
 feature-title: "TrialSieve: Towards automated clinical meta-analysis"
 feature-description: A dataset to extract quantitative results from clinical research articles
 # feature-order: 
 # featured: 
 # selected: 
-# image: /images/papers/
+code: "https://github.com/pathology-dynamics/trialsieve
+image: /images/papers/
 # bibtex: 
 #     }
 ---
