@@ -2,23 +2,23 @@
 layout: paper
 categories: papers
 permalink: papers/trialsieve
-id: biosift
+id: trialsieve
 title: "TrialSieve: An Information Extraction Dataset for Automating Clinical Meta Analysis"
-  authors:
-      - David Kartchner
-      - Haydn Turner
-      - Christophe Ye
-      - Irfan Al-Hussaini
-      - Jennifer Deng
-      - Zihan Wei
-      - Shubham Lohiya
-      - Prasanth Bathala
-      - Courtney Curtis
-      - Eva Duvaris
-      - Coral Jackson
-      - Sarah Tan
-      - Hannah Cho
-      - Cassie Mitchell
+authors:
+    - David Kartchner
+    - Haydn Turner
+    - Christophe Ye
+    - Irfan Al-Hussaini
+    - Jennifer Deng
+    - Zihan Wei
+    - Shubham Lohiya
+    - Prasanth Bathala
+    - Courtney Curtis
+    - Eva Duvaris
+    - Coral Jackson
+    - Sarah Tan
+    - Hannah Cho
+    - Cassie Mitchell
 venue: Preprint
 venue-shorthand: Preprint
 location: ""
@@ -32,8 +32,8 @@ feature-title: "TrialSieve: Towards automated clinical meta-analysis"
 feature-description: A dataset to extract quantitative results from clinical research articles
 # feature-order: 
 # featured: 
-# selected: 
-code: "https://github.com/pathology-dynamics/trialsieve
+selected: false
+code: "https://github.com/pathology-dynamics/trialsieve"
 image: /images/papers/
 # bibtex: 
 #     }
