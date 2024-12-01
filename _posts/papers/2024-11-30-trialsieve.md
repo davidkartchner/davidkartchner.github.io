@@ -20,8 +20,8 @@ authors:
     - Hannah Cho
     - Cassie Mitchell
 venue: Preprint
-venue-shorthand: Preprint
-location: ""
+# venue-shorthand: Preprint
+# location: ""
 year: 2024
 # icon:
 tagline: Automated meta-analysis of clinical literature
@@ -34,7 +34,7 @@ feature-description: A dataset to extract quantitative results from clinical res
 # featured: 
 selected: false
 code: "https://github.com/pathology-dynamics/trialsieve"
-image: /images/papers/
+image: /images/papers/trialsieve.jpg
 # bibtex: 
 #     }
 ---
